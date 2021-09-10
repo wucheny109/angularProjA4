@@ -1,0 +1,3908 @@
+[
+ {
+   "Report_Data_Extracted": "2020-04-24",
+   "LTC_Homes_with_Active_Outbreak": 145,
+   "LTC_Homes_with_Resolved_Outbreak": 31,
+   "Confirmed_Active_LTC_Resident_Cases": 2455,
+   "Total_LTC_Resident_Deaths": 625,
+   "Confirmed_Active_LTC_HCW_Cases": 1120,
+   "Total_LTC_HCW_Deaths": 1
+ },
+ {
+   "Report_Data_Extracted": "2020-04-25",
+   "LTC_Homes_with_Active_Outbreak": 147,
+   "LTC_Homes_with_Resolved_Outbreak": 31,
+   "Confirmed_Active_LTC_Resident_Cases": 2520,
+   "Total_LTC_Resident_Deaths": 654,
+   "Confirmed_Active_LTC_HCW_Cases": 1161,
+   "Total_LTC_HCW_Deaths": 1
+ },
+ {
+   "Report_Data_Extracted": "2020-04-26",
+   "LTC_Homes_with_Active_Outbreak": 150,
+   "LTC_Homes_with_Resolved_Outbreak": 32,
+   "Confirmed_Active_LTC_Resident_Cases": 2523,
+   "Total_LTC_Resident_Deaths": 671,
+   "Confirmed_Active_LTC_HCW_Cases": 1187,
+   "Total_LTC_HCW_Deaths": 1
+ },
+ {
+   "Report_Data_Extracted": "2020-04-27",
+   "LTC_Homes_with_Active_Outbreak": 154,
+   "LTC_Homes_with_Resolved_Outbreak": 34,
+   "Confirmed_Active_LTC_Resident_Cases": 2491,
+   "Total_LTC_Resident_Deaths": 705,
+   "Confirmed_Active_LTC_HCW_Cases": 1205,
+   "Total_LTC_HCW_Deaths": 1
+ },
+ {
+   "Report_Data_Extracted": "2020-04-28",
+   "LTC_Homes_with_Active_Outbreak": 159,
+   "LTC_Homes_with_Resolved_Outbreak": 34,
+   "Confirmed_Active_LTC_Resident_Cases": 2632,
+   "Total_LTC_Resident_Deaths": 775,
+   "Confirmed_Active_LTC_HCW_Cases": 1361,
+   "Total_LTC_HCW_Deaths": 1
+ },
+ {
+   "Report_Data_Extracted": "2020-04-29",
+   "LTC_Homes_with_Active_Outbreak": 163,
+   "LTC_Homes_with_Resolved_Outbreak": 34,
+   "Confirmed_Active_LTC_Resident_Cases": 2614,
+   "Total_LTC_Resident_Deaths": 835,
+   "Confirmed_Active_LTC_HCW_Cases": 1430,
+   "Total_LTC_HCW_Deaths": 1
+ },
+ {
+   "Report_Data_Extracted": "2020-04-30",
+   "LTC_Homes_with_Active_Outbreak": 166,
+   "LTC_Homes_with_Resolved_Outbreak": 35,
+   "Confirmed_Active_LTC_Resident_Cases": 2722,
+   "Total_LTC_Resident_Deaths": 861,
+   "Confirmed_Active_LTC_HCW_Cases": 1482,
+   "Total_LTC_HCW_Deaths": 1
+ },
+ {
+   "Report_Data_Extracted": "2020-05-01",
+   "LTC_Homes_with_Active_Outbreak": 167,
+   "LTC_Homes_with_Resolved_Outbreak": 36,
+   "Confirmed_Active_LTC_Resident_Cases": 2682,
+   "Total_LTC_Resident_Deaths": 910,
+   "Confirmed_Active_LTC_HCW_Cases": 1541,
+   "Total_LTC_HCW_Deaths": 2
+ },
+ {
+   "Report_Data_Extracted": "2020-05-02",
+   "LTC_Homes_with_Active_Outbreak": 170,
+   "LTC_Homes_with_Resolved_Outbreak": 36,
+   "Confirmed_Active_LTC_Resident_Cases": 2719,
+   "Total_LTC_Resident_Deaths": 954,
+   "Confirmed_Active_LTC_HCW_Cases": 1594,
+   "Total_LTC_HCW_Deaths": 2
+ },
+ {
+   "Report_Data_Extracted": "2020-05-03",
+   "LTC_Homes_with_Active_Outbreak": 175,
+   "LTC_Homes_with_Resolved_Outbreak": 37,
+   "Confirmed_Active_LTC_Resident_Cases": 2751,
+   "Total_LTC_Resident_Deaths": 972,
+   "Confirmed_Active_LTC_HCW_Cases": 1619,
+   "Total_LTC_HCW_Deaths": 3
+ },
+ {
+   "Report_Data_Extracted": "2020-05-04",
+   "LTC_Homes_with_Active_Outbreak": 175,
+   "LTC_Homes_with_Resolved_Outbreak": 37,
+   "Confirmed_Active_LTC_Resident_Cases": 2740,
+   "Total_LTC_Resident_Deaths": 1003,
+   "Confirmed_Active_LTC_HCW_Cases": 1613,
+   "Total_LTC_HCW_Deaths": 3
+ },
+ {
+   "Report_Data_Extracted": "2020-05-05",
+   "LTC_Homes_with_Active_Outbreak": 174,
+   "LTC_Homes_with_Resolved_Outbreak": 41,
+   "Confirmed_Active_LTC_Resident_Cases": 2819,
+   "Total_LTC_Resident_Deaths": 1074,
+   "Confirmed_Active_LTC_HCW_Cases": 1621,
+   "Total_LTC_HCW_Deaths": 3
+ },
+ {
+   "Report_Data_Extracted": "2020-05-06",
+   "LTC_Homes_with_Active_Outbreak": 174,
+   "LTC_Homes_with_Resolved_Outbreak": 45,
+   "Confirmed_Active_LTC_Resident_Cases": 2831,
+   "Total_LTC_Resident_Deaths": 1111,
+   "Confirmed_Active_LTC_HCW_Cases": 1671,
+   "Total_LTC_HCW_Deaths": 3
+ },
+ {
+   "Report_Data_Extracted": "2020-05-07",
+   "LTC_Homes_with_Active_Outbreak": 175,
+   "LTC_Homes_with_Resolved_Outbreak": 49,
+   "Confirmed_Active_LTC_Resident_Cases": 2782,
+   "Total_LTC_Resident_Deaths": 1150,
+   "Confirmed_Active_LTC_HCW_Cases": 1707,
+   "Total_LTC_HCW_Deaths": 4
+ },
+ {
+   "Report_Data_Extracted": "2020-05-08",
+   "LTC_Homes_with_Active_Outbreak": 175,
+   "LTC_Homes_with_Resolved_Outbreak": 53,
+   "Confirmed_Active_LTC_Resident_Cases": 2773,
+   "Total_LTC_Resident_Deaths": 1187,
+   "Confirmed_Active_LTC_HCW_Cases": 1736,
+   "Total_LTC_HCW_Deaths": 4
+ },
+ {
+   "Report_Data_Extracted": "2020-05-09",
+   "LTC_Homes_with_Active_Outbreak": 172,
+   "LTC_Homes_with_Resolved_Outbreak": 58,
+   "Confirmed_Active_LTC_Resident_Cases": 2727,
+   "Total_LTC_Resident_Deaths": 1235,
+   "Confirmed_Active_LTC_HCW_Cases": 1693,
+   "Total_LTC_HCW_Deaths": 4
+ },
+ {
+   "Report_Data_Extracted": "2020-05-10",
+   "LTC_Homes_with_Active_Outbreak": 174,
+   "LTC_Homes_with_Resolved_Outbreak": 57,
+   "Confirmed_Active_LTC_Resident_Cases": 2725,
+   "Total_LTC_Resident_Deaths": 1235,
+   "Confirmed_Active_LTC_HCW_Cases": 1691,
+   "Total_LTC_HCW_Deaths": 4
+ },
+ {
+   "Report_Data_Extracted": "2020-05-11",
+   "LTC_Homes_with_Active_Outbreak": 180,
+   "LTC_Homes_with_Resolved_Outbreak": 58,
+   "Confirmed_Active_LTC_Resident_Cases": 2703,
+   "Total_LTC_Resident_Deaths": 1239,
+   "Confirmed_Active_LTC_HCW_Cases": 1677,
+   "Total_LTC_HCW_Deaths": 4
+ },
+ {
+   "Report_Data_Extracted": "2020-05-12",
+   "LTC_Homes_with_Active_Outbreak": 180,
+   "LTC_Homes_with_Resolved_Outbreak": 64,
+   "Confirmed_Active_LTC_Resident_Cases": 2690,
+   "Total_LTC_Resident_Deaths": 1269,
+   "Confirmed_Active_LTC_HCW_Cases": 1672,
+   "Total_LTC_HCW_Deaths": 5
+ },
+ {
+   "Report_Data_Extracted": "2020-05-13",
+   "LTC_Homes_with_Active_Outbreak": 185,
+   "LTC_Homes_with_Resolved_Outbreak": 71,
+   "Confirmed_Active_LTC_Resident_Cases": 2501,
+   "Total_LTC_Resident_Deaths": 1308,
+   "Confirmed_Active_LTC_HCW_Cases": 1668,
+   "Total_LTC_HCW_Deaths": 5
+ },
+ {
+   "Report_Data_Extracted": "2020-05-14",
+   "LTC_Homes_with_Active_Outbreak": 186,
+   "LTC_Homes_with_Resolved_Outbreak": 75,
+   "Confirmed_Active_LTC_Resident_Cases": 2429,
+   "Total_LTC_Resident_Deaths": 1320,
+   "Confirmed_Active_LTC_HCW_Cases": 1647,
+   "Total_LTC_HCW_Deaths": 5
+ },
+ {
+   "Report_Data_Extracted": "2020-05-15",
+   "LTC_Homes_with_Active_Outbreak": 185,
+   "LTC_Homes_with_Resolved_Outbreak": 80,
+   "Confirmed_Active_LTC_Resident_Cases": 2490,
+   "Total_LTC_Resident_Deaths": 1360,
+   "Confirmed_Active_LTC_HCW_Cases": 1637,
+   "Total_LTC_HCW_Deaths": 5
+ },
+ {
+   "Report_Data_Extracted": "2020-05-16",
+   "LTC_Homes_with_Active_Outbreak": 189,
+   "LTC_Homes_with_Resolved_Outbreak": 82,
+   "Confirmed_Active_LTC_Resident_Cases": 2500,
+   "Total_LTC_Resident_Deaths": 1388,
+   "Confirmed_Active_LTC_HCW_Cases": 1631,
+   "Total_LTC_HCW_Deaths": 5
+ },
+ {
+   "Report_Data_Extracted": "2020-05-17",
+   "LTC_Homes_with_Active_Outbreak": 189,
+   "LTC_Homes_with_Resolved_Outbreak": 85,
+   "Confirmed_Active_LTC_Resident_Cases": 2526,
+   "Total_LTC_Resident_Deaths": 1389,
+   "Confirmed_Active_LTC_HCW_Cases": 1606,
+   "Total_LTC_HCW_Deaths": 5
+ },
+ {
+   "Report_Data_Extracted": "2020-05-18",
+   "LTC_Homes_with_Active_Outbreak": 190,
+   "LTC_Homes_with_Resolved_Outbreak": 88,
+   "Confirmed_Active_LTC_Resident_Cases": 2538,
+   "Total_LTC_Resident_Deaths": 1408,
+   "Confirmed_Active_LTC_HCW_Cases": 1615,
+   "Total_LTC_HCW_Deaths": 5
+ },
+ {
+   "Report_Data_Extracted": "2020-05-19",
+   "LTC_Homes_with_Active_Outbreak": 183,
+   "LTC_Homes_with_Resolved_Outbreak": 100,
+   "Confirmed_Active_LTC_Resident_Cases": 2563,
+   "Total_LTC_Resident_Deaths": 1427,
+   "Confirmed_Active_LTC_HCW_Cases": 1611,
+   "Total_LTC_HCW_Deaths": 5
+ },
+ {
+   "Report_Data_Extracted": "2020-05-20",
+   "LTC_Homes_with_Active_Outbreak": 175,
+   "LTC_Homes_with_Resolved_Outbreak": 109,
+   "Confirmed_Active_LTC_Resident_Cases": 2458,
+   "Total_LTC_Resident_Deaths": 1452,
+   "Confirmed_Active_LTC_HCW_Cases": 1564,
+   "Total_LTC_HCW_Deaths": 6
+ },
+ {
+   "Report_Data_Extracted": "2020-05-21",
+   "LTC_Homes_with_Active_Outbreak": 171,
+   "LTC_Homes_with_Resolved_Outbreak": 116,
+   "Confirmed_Active_LTC_Resident_Cases": 2252,
+   "Total_LTC_Resident_Deaths": 1486,
+   "Confirmed_Active_LTC_HCW_Cases": 1523,
+   "Total_LTC_HCW_Deaths": 6
+ },
+ {
+   "Report_Data_Extracted": "2020-05-22",
+   "LTC_Homes_with_Active_Outbreak": 165,
+   "LTC_Homes_with_Resolved_Outbreak": 124,
+   "Confirmed_Active_LTC_Resident_Cases": 2148,
+   "Total_LTC_Resident_Deaths": 1495,
+   "Confirmed_Active_LTC_HCW_Cases": 1437,
+   "Total_LTC_HCW_Deaths": 6
+ },
+ {
+   "Report_Data_Extracted": "2020-05-23",
+   "LTC_Homes_with_Active_Outbreak": 161,
+   "LTC_Homes_with_Resolved_Outbreak": 130,
+   "Confirmed_Active_LTC_Resident_Cases": 1954,
+   "Total_LTC_Resident_Deaths": 1525,
+   "Confirmed_Active_LTC_HCW_Cases": 1392,
+   "Total_LTC_HCW_Deaths": 6
+ },
+ {
+   "Report_Data_Extracted": "2020-05-24",
+   "LTC_Homes_with_Active_Outbreak": 159,
+   "LTC_Homes_with_Resolved_Outbreak": 133,
+   "Confirmed_Active_LTC_Resident_Cases": 1926,
+   "Total_LTC_Resident_Deaths": 1531,
+   "Confirmed_Active_LTC_HCW_Cases": 1395,
+   "Total_LTC_HCW_Deaths": 6
+ },
+ {
+   "Report_Data_Extracted": "2020-05-25",
+   "LTC_Homes_with_Active_Outbreak": 150,
+   "LTC_Homes_with_Resolved_Outbreak": 142,
+   "Confirmed_Active_LTC_Resident_Cases": 1855,
+   "Total_LTC_Resident_Deaths": 1538,
+   "Confirmed_Active_LTC_HCW_Cases": 1335,
+   "Total_LTC_HCW_Deaths": 6
+ },
+ {
+   "Report_Data_Extracted": "2020-05-26",
+   "LTC_Homes_with_Active_Outbreak": 135,
+   "LTC_Homes_with_Resolved_Outbreak": 157,
+   "Confirmed_Active_LTC_Resident_Cases": 1765,
+   "Total_LTC_Resident_Deaths": 1587,
+   "Confirmed_Active_LTC_HCW_Cases": 1216,
+   "Total_LTC_HCW_Deaths": 6
+ },
+ {
+   "Report_Data_Extracted": "2020-05-27",
+   "LTC_Homes_with_Active_Outbreak": 129,
+   "LTC_Homes_with_Resolved_Outbreak": 164,
+   "Confirmed_Active_LTC_Resident_Cases": 1655,
+   "Total_LTC_Resident_Deaths": 1591,
+   "Confirmed_Active_LTC_HCW_Cases": 1160,
+   "Total_LTC_HCW_Deaths": 6
+ },
+ {
+   "Report_Data_Extracted": "2020-05-28",
+   "LTC_Homes_with_Active_Outbreak": 123,
+   "LTC_Homes_with_Resolved_Outbreak": 172,
+   "Confirmed_Active_LTC_Resident_Cases": 1476,
+   "Total_LTC_Resident_Deaths": 1625,
+   "Confirmed_Active_LTC_HCW_Cases": 1113,
+   "Total_LTC_HCW_Deaths": 6
+ },
+ {
+   "Report_Data_Extracted": "2020-05-29",
+   "LTC_Homes_with_Active_Outbreak": 114,
+   "LTC_Homes_with_Resolved_Outbreak": 180,
+   "Confirmed_Active_LTC_Resident_Cases": 1304,
+   "Total_LTC_Resident_Deaths": 1636,
+   "Confirmed_Active_LTC_HCW_Cases": 1048,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-05-30",
+   "LTC_Homes_with_Active_Outbreak": 114,
+   "LTC_Homes_with_Resolved_Outbreak": 182,
+   "Confirmed_Active_LTC_Resident_Cases": 1184,
+   "Total_LTC_Resident_Deaths": 1642,
+   "Confirmed_Active_LTC_HCW_Cases": 986,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-05-31",
+   "LTC_Homes_with_Active_Outbreak": 112,
+   "LTC_Homes_with_Resolved_Outbreak": 184,
+   "Confirmed_Active_LTC_Resident_Cases": 1154,
+   "Total_LTC_Resident_Deaths": 1648,
+   "Confirmed_Active_LTC_HCW_Cases": 978,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-01",
+   "LTC_Homes_with_Active_Outbreak": 105,
+   "LTC_Homes_with_Resolved_Outbreak": 191,
+   "Confirmed_Active_LTC_Resident_Cases": 1081,
+   "Total_LTC_Resident_Deaths": 1652,
+   "Confirmed_Active_LTC_HCW_Cases": 925,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-02",
+   "LTC_Homes_with_Active_Outbreak": 94,
+   "LTC_Homes_with_Resolved_Outbreak": 203,
+   "Confirmed_Active_LTC_Resident_Cases": 986,
+   "Total_LTC_Resident_Deaths": 1661,
+   "Confirmed_Active_LTC_HCW_Cases": 866,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-03",
+   "LTC_Homes_with_Active_Outbreak": 89,
+   "LTC_Homes_with_Resolved_Outbreak": 208,
+   "Confirmed_Active_LTC_Resident_Cases": 970,
+   "Total_LTC_Resident_Deaths": 1679,
+   "Confirmed_Active_LTC_HCW_Cases": 805,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-04",
+   "LTC_Homes_with_Active_Outbreak": 85,
+   "LTC_Homes_with_Resolved_Outbreak": 213,
+   "Confirmed_Active_LTC_Resident_Cases": 969,
+   "Total_LTC_Resident_Deaths": 1692,
+   "Confirmed_Active_LTC_HCW_Cases": 732,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-05",
+   "LTC_Homes_with_Active_Outbreak": 83,
+   "LTC_Homes_with_Resolved_Outbreak": 214,
+   "Confirmed_Active_LTC_Resident_Cases": 923,
+   "Total_LTC_Resident_Deaths": 1717,
+   "Confirmed_Active_LTC_HCW_Cases": 685,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-06",
+   "LTC_Homes_with_Active_Outbreak": 77,
+   "LTC_Homes_with_Resolved_Outbreak": 220,
+   "Confirmed_Active_LTC_Resident_Cases": 884,
+   "Total_LTC_Resident_Deaths": 1719,
+   "Confirmed_Active_LTC_HCW_Cases": 664,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-07",
+   "LTC_Homes_with_Active_Outbreak": 78,
+   "LTC_Homes_with_Resolved_Outbreak": 220,
+   "Confirmed_Active_LTC_Resident_Cases": 884,
+   "Total_LTC_Resident_Deaths": 1720,
+   "Confirmed_Active_LTC_HCW_Cases": 665,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-08",
+   "LTC_Homes_with_Active_Outbreak": 73,
+   "LTC_Homes_with_Resolved_Outbreak": 225,
+   "Confirmed_Active_LTC_Resident_Cases": 816,
+   "Total_LTC_Resident_Deaths": 1738,
+   "Confirmed_Active_LTC_HCW_Cases": 643,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-09",
+   "LTC_Homes_with_Active_Outbreak": 68,
+   "LTC_Homes_with_Resolved_Outbreak": 231,
+   "Confirmed_Active_LTC_Resident_Cases": 777,
+   "Total_LTC_Resident_Deaths": 1766,
+   "Confirmed_Active_LTC_HCW_Cases": 630,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-10",
+   "LTC_Homes_with_Active_Outbreak": 65,
+   "LTC_Homes_with_Resolved_Outbreak": 235,
+   "Confirmed_Active_LTC_Resident_Cases": 683,
+   "Total_LTC_Resident_Deaths": 1772,
+   "Confirmed_Active_LTC_HCW_Cases": 590,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-11",
+   "LTC_Homes_with_Active_Outbreak": 63,
+   "LTC_Homes_with_Resolved_Outbreak": 238,
+   "Confirmed_Active_LTC_Resident_Cases": 611,
+   "Total_LTC_Resident_Deaths": 1776,
+   "Confirmed_Active_LTC_HCW_Cases": 543,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-12",
+   "LTC_Homes_with_Active_Outbreak": 63,
+   "LTC_Homes_with_Resolved_Outbreak": 240,
+   "Confirmed_Active_LTC_Resident_Cases": 539,
+   "Total_LTC_Resident_Deaths": 1786,
+   "Confirmed_Active_LTC_HCW_Cases": 503,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-13",
+   "LTC_Homes_with_Active_Outbreak": 67,
+   "LTC_Homes_with_Resolved_Outbreak": 238,
+   "Confirmed_Active_LTC_Resident_Cases": 524,
+   "Total_LTC_Resident_Deaths": 1787,
+   "Confirmed_Active_LTC_HCW_Cases": 507,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-14",
+   "LTC_Homes_with_Active_Outbreak": 69,
+   "LTC_Homes_with_Resolved_Outbreak": 236,
+   "Confirmed_Active_LTC_Resident_Cases": 490,
+   "Total_LTC_Resident_Deaths": 1792,
+   "Confirmed_Active_LTC_HCW_Cases": 476,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-15",
+   "LTC_Homes_with_Active_Outbreak": 67,
+   "LTC_Homes_with_Resolved_Outbreak": 240,
+   "Confirmed_Active_LTC_Resident_Cases": 458,
+   "Total_LTC_Resident_Deaths": 1794,
+   "Confirmed_Active_LTC_HCW_Cases": 471,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-16",
+   "LTC_Homes_with_Active_Outbreak": 68,
+   "LTC_Homes_with_Resolved_Outbreak": 241,
+   "Confirmed_Active_LTC_Resident_Cases": 381,
+   "Total_LTC_Resident_Deaths": 1798,
+   "Confirmed_Active_LTC_HCW_Cases": 435,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-17",
+   "LTC_Homes_with_Active_Outbreak": 67,
+   "LTC_Homes_with_Resolved_Outbreak": 242,
+   "Confirmed_Active_LTC_Resident_Cases": 339,
+   "Total_LTC_Resident_Deaths": 1797,
+   "Confirmed_Active_LTC_HCW_Cases": 435,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-18",
+   "LTC_Homes_with_Active_Outbreak": 66,
+   "LTC_Homes_with_Resolved_Outbreak": 243,
+   "Confirmed_Active_LTC_Resident_Cases": 320,
+   "Total_LTC_Resident_Deaths": 1799,
+   "Confirmed_Active_LTC_HCW_Cases": 371,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-19",
+   "LTC_Homes_with_Active_Outbreak": 67,
+   "LTC_Homes_with_Resolved_Outbreak": 246,
+   "Confirmed_Active_LTC_Resident_Cases": 252,
+   "Total_LTC_Resident_Deaths": 1799,
+   "Confirmed_Active_LTC_HCW_Cases": 356,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-20",
+   "LTC_Homes_with_Active_Outbreak": 68,
+   "LTC_Homes_with_Resolved_Outbreak": 246,
+   "Confirmed_Active_LTC_Resident_Cases": 241,
+   "Total_LTC_Resident_Deaths": 1802,
+   "Confirmed_Active_LTC_HCW_Cases": 347,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-21",
+   "LTC_Homes_with_Active_Outbreak": 66,
+   "LTC_Homes_with_Resolved_Outbreak": 247,
+   "Confirmed_Active_LTC_Resident_Cases": 240,
+   "Total_LTC_Resident_Deaths": 1803,
+   "Confirmed_Active_LTC_HCW_Cases": 346,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-22",
+   "LTC_Homes_with_Active_Outbreak": 63,
+   "LTC_Homes_with_Resolved_Outbreak": 252,
+   "Confirmed_Active_LTC_Resident_Cases": 228,
+   "Total_LTC_Resident_Deaths": 1796,
+   "Confirmed_Active_LTC_HCW_Cases": 331,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-23",
+   "LTC_Homes_with_Active_Outbreak": 62,
+   "LTC_Homes_with_Resolved_Outbreak": 253,
+   "Confirmed_Active_LTC_Resident_Cases": 205,
+   "Total_LTC_Resident_Deaths": 1798,
+   "Confirmed_Active_LTC_HCW_Cases": 368,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-24",
+   "LTC_Homes_with_Active_Outbreak": 57,
+   "LTC_Homes_with_Resolved_Outbreak": 258,
+   "Confirmed_Active_LTC_Resident_Cases": 189,
+   "Total_LTC_Resident_Deaths": 1803,
+   "Confirmed_Active_LTC_HCW_Cases": 321,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-25",
+   "LTC_Homes_with_Active_Outbreak": 57,
+   "LTC_Homes_with_Resolved_Outbreak": 258,
+   "Confirmed_Active_LTC_Resident_Cases": 187,
+   "Total_LTC_Resident_Deaths": 1807,
+   "Confirmed_Active_LTC_HCW_Cases": 324,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-26",
+   "LTC_Homes_with_Active_Outbreak": 57,
+   "LTC_Homes_with_Resolved_Outbreak": 257,
+   "Confirmed_Active_LTC_Resident_Cases": 181,
+   "Total_LTC_Resident_Deaths": 1807,
+   "Confirmed_Active_LTC_HCW_Cases": 315,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-27",
+   "LTC_Homes_with_Active_Outbreak": 55,
+   "LTC_Homes_with_Resolved_Outbreak": 259,
+   "Confirmed_Active_LTC_Resident_Cases": 183,
+   "Total_LTC_Resident_Deaths": 1809,
+   "Confirmed_Active_LTC_HCW_Cases": 320,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-28",
+   "LTC_Homes_with_Active_Outbreak": 56,
+   "LTC_Homes_with_Resolved_Outbreak": 258,
+   "Confirmed_Active_LTC_Resident_Cases": 184,
+   "Total_LTC_Resident_Deaths": 1809,
+   "Confirmed_Active_LTC_HCW_Cases": 320,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-29",
+   "LTC_Homes_with_Active_Outbreak": 55,
+   "LTC_Homes_with_Resolved_Outbreak": 259,
+   "Confirmed_Active_LTC_Resident_Cases": 184,
+   "Total_LTC_Resident_Deaths": 1809,
+   "Confirmed_Active_LTC_HCW_Cases": 316,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-06-30",
+   "LTC_Homes_with_Active_Outbreak": 48,
+   "LTC_Homes_with_Resolved_Outbreak": 265,
+   "Confirmed_Active_LTC_Resident_Cases": 168,
+   "Total_LTC_Resident_Deaths": 1817,
+   "Confirmed_Active_LTC_HCW_Cases": 299,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-01",
+   "LTC_Homes_with_Active_Outbreak": 46,
+   "LTC_Homes_with_Resolved_Outbreak": 267,
+   "Confirmed_Active_LTC_Resident_Cases": 168,
+   "Total_LTC_Resident_Deaths": 1817,
+   "Confirmed_Active_LTC_HCW_Cases": 289,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-02",
+   "LTC_Homes_with_Active_Outbreak": 44,
+   "LTC_Homes_with_Resolved_Outbreak": 269,
+   "Confirmed_Active_LTC_Resident_Cases": 167,
+   "Total_LTC_Resident_Deaths": 1817,
+   "Confirmed_Active_LTC_HCW_Cases": 287,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-03",
+   "LTC_Homes_with_Active_Outbreak": 36,
+   "LTC_Homes_with_Resolved_Outbreak": 278,
+   "Confirmed_Active_LTC_Resident_Cases": 165,
+   "Total_LTC_Resident_Deaths": 1821,
+   "Confirmed_Active_LTC_HCW_Cases": 263,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-04",
+   "LTC_Homes_with_Active_Outbreak": 35,
+   "LTC_Homes_with_Resolved_Outbreak": 280,
+   "Confirmed_Active_LTC_Resident_Cases": 162,
+   "Total_LTC_Resident_Deaths": 1821,
+   "Confirmed_Active_LTC_HCW_Cases": 263,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-05",
+   "LTC_Homes_with_Active_Outbreak": 34,
+   "LTC_Homes_with_Resolved_Outbreak": 281,
+   "Confirmed_Active_LTC_Resident_Cases": 160,
+   "Total_LTC_Resident_Deaths": 1821,
+   "Confirmed_Active_LTC_HCW_Cases": 261,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-06",
+   "LTC_Homes_with_Active_Outbreak": 30,
+   "LTC_Homes_with_Resolved_Outbreak": 285,
+   "Confirmed_Active_LTC_Resident_Cases": 160,
+   "Total_LTC_Resident_Deaths": 1821,
+   "Confirmed_Active_LTC_HCW_Cases": 249,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-07",
+   "LTC_Homes_with_Active_Outbreak": 26,
+   "LTC_Homes_with_Resolved_Outbreak": 288,
+   "Confirmed_Active_LTC_Resident_Cases": 144,
+   "Total_LTC_Resident_Deaths": 1822,
+   "Confirmed_Active_LTC_HCW_Cases": 217,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-08",
+   "LTC_Homes_with_Active_Outbreak": 25,
+   "LTC_Homes_with_Resolved_Outbreak": 289,
+   "Confirmed_Active_LTC_Resident_Cases": 142,
+   "Total_LTC_Resident_Deaths": 1833,
+   "Confirmed_Active_LTC_HCW_Cases": 211,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-09",
+   "LTC_Homes_with_Active_Outbreak": 22,
+   "LTC_Homes_with_Resolved_Outbreak": 292,
+   "Confirmed_Active_LTC_Resident_Cases": 137,
+   "Total_LTC_Resident_Deaths": 1833,
+   "Confirmed_Active_LTC_HCW_Cases": 204,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-10",
+   "LTC_Homes_with_Active_Outbreak": 23,
+   "LTC_Homes_with_Resolved_Outbreak": 293,
+   "Confirmed_Active_LTC_Resident_Cases": 80,
+   "Total_LTC_Resident_Deaths": 1834,
+   "Confirmed_Active_LTC_HCW_Cases": 143,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-11",
+   "LTC_Homes_with_Active_Outbreak": 23,
+   "LTC_Homes_with_Resolved_Outbreak": 294,
+   "Confirmed_Active_LTC_Resident_Cases": 76,
+   "Total_LTC_Resident_Deaths": 1836,
+   "Confirmed_Active_LTC_HCW_Cases": 144,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-12",
+   "LTC_Homes_with_Active_Outbreak": 25,
+   "LTC_Homes_with_Resolved_Outbreak": 293,
+   "Confirmed_Active_LTC_Resident_Cases": 76,
+   "Total_LTC_Resident_Deaths": 1836,
+   "Confirmed_Active_LTC_HCW_Cases": 148,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-13",
+   "LTC_Homes_with_Active_Outbreak": 27,
+   "LTC_Homes_with_Resolved_Outbreak": 292,
+   "Confirmed_Active_LTC_Resident_Cases": 76,
+   "Total_LTC_Resident_Deaths": 1836,
+   "Confirmed_Active_LTC_HCW_Cases": 150,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-14",
+   "LTC_Homes_with_Active_Outbreak": 20,
+   "LTC_Homes_with_Resolved_Outbreak": 299,
+   "Confirmed_Active_LTC_Resident_Cases": 49,
+   "Total_LTC_Resident_Deaths": 1838,
+   "Confirmed_Active_LTC_HCW_Cases": 117,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-15",
+   "LTC_Homes_with_Active_Outbreak": 19,
+   "LTC_Homes_with_Resolved_Outbreak": 300,
+   "Confirmed_Active_LTC_Resident_Cases": 45,
+   "Total_LTC_Resident_Deaths": 1840,
+   "Confirmed_Active_LTC_HCW_Cases": 62,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-16",
+   "LTC_Homes_with_Active_Outbreak": 18,
+   "LTC_Homes_with_Resolved_Outbreak": 302,
+   "Confirmed_Active_LTC_Resident_Cases": 36,
+   "Total_LTC_Resident_Deaths": 1839,
+   "Confirmed_Active_LTC_HCW_Cases": 62,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-17",
+   "LTC_Homes_with_Active_Outbreak": 17,
+   "LTC_Homes_with_Resolved_Outbreak": 303,
+   "Confirmed_Active_LTC_Resident_Cases": 39,
+   "Total_LTC_Resident_Deaths": 1841,
+   "Confirmed_Active_LTC_HCW_Cases": 63,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-18",
+   "LTC_Homes_with_Active_Outbreak": 17,
+   "LTC_Homes_with_Resolved_Outbreak": 303,
+   "Confirmed_Active_LTC_Resident_Cases": 40,
+   "Total_LTC_Resident_Deaths": 1841,
+   "Confirmed_Active_LTC_HCW_Cases": 60,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-19",
+   "LTC_Homes_with_Active_Outbreak": 16,
+   "LTC_Homes_with_Resolved_Outbreak": 304,
+   "Confirmed_Active_LTC_Resident_Cases": 34,
+   "Total_LTC_Resident_Deaths": 1841,
+   "Confirmed_Active_LTC_HCW_Cases": 61,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-20",
+   "LTC_Homes_with_Active_Outbreak": 16,
+   "LTC_Homes_with_Resolved_Outbreak": 304,
+   "Confirmed_Active_LTC_Resident_Cases": 32,
+   "Total_LTC_Resident_Deaths": 1841,
+   "Confirmed_Active_LTC_HCW_Cases": 66,
+   "Total_LTC_HCW_Deaths": 7
+ },
+ {
+   "Report_Data_Extracted": "2020-07-21",
+   "LTC_Homes_with_Active_Outbreak": 16,
+   "LTC_Homes_with_Resolved_Outbreak": 307,
+   "Confirmed_Active_LTC_Resident_Cases": 25,
+   "Total_LTC_Resident_Deaths": 1844,
+   "Confirmed_Active_LTC_HCW_Cases": 66,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-07-22",
+   "LTC_Homes_with_Active_Outbreak": 15,
+   "LTC_Homes_with_Resolved_Outbreak": 308,
+   "Confirmed_Active_LTC_Resident_Cases": 17,
+   "Total_LTC_Resident_Deaths": 1844,
+   "Confirmed_Active_LTC_HCW_Cases": 53,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-07-23",
+   "LTC_Homes_with_Active_Outbreak": 14,
+   "LTC_Homes_with_Resolved_Outbreak": 309,
+   "Confirmed_Active_LTC_Resident_Cases": 17,
+   "Total_LTC_Resident_Deaths": 1844,
+   "Confirmed_Active_LTC_HCW_Cases": 51,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-07-24",
+   "LTC_Homes_with_Active_Outbreak": 13,
+   "LTC_Homes_with_Resolved_Outbreak": 310,
+   "Confirmed_Active_LTC_Resident_Cases": 16,
+   "Total_LTC_Resident_Deaths": 1844,
+   "Confirmed_Active_LTC_HCW_Cases": 42,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-07-25",
+   "LTC_Homes_with_Active_Outbreak": 12,
+   "LTC_Homes_with_Resolved_Outbreak": 311,
+   "Confirmed_Active_LTC_Resident_Cases": 16,
+   "Total_LTC_Resident_Deaths": 1844,
+   "Confirmed_Active_LTC_HCW_Cases": 41,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-07-26",
+   "LTC_Homes_with_Active_Outbreak": 13,
+   "LTC_Homes_with_Resolved_Outbreak": 311,
+   "Confirmed_Active_LTC_Resident_Cases": 16,
+   "Total_LTC_Resident_Deaths": 1844,
+   "Confirmed_Active_LTC_HCW_Cases": 43,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-07-27",
+   "LTC_Homes_with_Active_Outbreak": 15,
+   "LTC_Homes_with_Resolved_Outbreak": 310,
+   "Confirmed_Active_LTC_Resident_Cases": 16,
+   "Total_LTC_Resident_Deaths": 1844,
+   "Confirmed_Active_LTC_HCW_Cases": 46,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-07-28",
+   "LTC_Homes_with_Active_Outbreak": 15,
+   "LTC_Homes_with_Resolved_Outbreak": 310,
+   "Confirmed_Active_LTC_Resident_Cases": 10,
+   "Total_LTC_Resident_Deaths": 1844,
+   "Confirmed_Active_LTC_HCW_Cases": 36,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-07-29",
+   "LTC_Homes_with_Active_Outbreak": 17,
+   "LTC_Homes_with_Resolved_Outbreak": 309,
+   "Confirmed_Active_LTC_Resident_Cases": 12,
+   "Total_LTC_Resident_Deaths": 1844,
+   "Confirmed_Active_LTC_HCW_Cases": 37,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-07-30",
+   "LTC_Homes_with_Active_Outbreak": 17,
+   "LTC_Homes_with_Resolved_Outbreak": 310,
+   "Confirmed_Active_LTC_Resident_Cases": 9,
+   "Total_LTC_Resident_Deaths": 1845,
+   "Confirmed_Active_LTC_HCW_Cases": 37,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-07-31",
+   "LTC_Homes_with_Active_Outbreak": 19,
+   "LTC_Homes_with_Resolved_Outbreak": 309,
+   "Confirmed_Active_LTC_Resident_Cases": 10,
+   "Total_LTC_Resident_Deaths": 1845,
+   "Confirmed_Active_LTC_HCW_Cases": 37,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-01",
+   "LTC_Homes_with_Active_Outbreak": 20,
+   "LTC_Homes_with_Resolved_Outbreak": 309,
+   "Confirmed_Active_LTC_Resident_Cases": 10,
+   "Total_LTC_Resident_Deaths": 1845,
+   "Confirmed_Active_LTC_HCW_Cases": 37,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-02",
+   "LTC_Homes_with_Active_Outbreak": 23,
+   "LTC_Homes_with_Resolved_Outbreak": 308,
+   "Confirmed_Active_LTC_Resident_Cases": 11,
+   "Total_LTC_Resident_Deaths": 1845,
+   "Confirmed_Active_LTC_HCW_Cases": 40,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-03",
+   "LTC_Homes_with_Active_Outbreak": 23,
+   "LTC_Homes_with_Resolved_Outbreak": 308,
+   "Confirmed_Active_LTC_Resident_Cases": 11,
+   "Total_LTC_Resident_Deaths": 1845,
+   "Confirmed_Active_LTC_HCW_Cases": 40,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-04",
+   "LTC_Homes_with_Active_Outbreak": 23,
+   "LTC_Homes_with_Resolved_Outbreak": 308,
+   "Confirmed_Active_LTC_Resident_Cases": 12,
+   "Total_LTC_Resident_Deaths": 1845,
+   "Confirmed_Active_LTC_HCW_Cases": 42,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-05",
+   "LTC_Homes_with_Active_Outbreak": 23,
+   "LTC_Homes_with_Resolved_Outbreak": 308,
+   "Confirmed_Active_LTC_Resident_Cases": 13,
+   "Total_LTC_Resident_Deaths": 1846,
+   "Confirmed_Active_LTC_HCW_Cases": 42,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-06",
+   "LTC_Homes_with_Active_Outbreak": 22,
+   "LTC_Homes_with_Resolved_Outbreak": 309,
+   "Confirmed_Active_LTC_Resident_Cases": 11,
+   "Total_LTC_Resident_Deaths": 1846,
+   "Confirmed_Active_LTC_HCW_Cases": 43,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-07",
+   "LTC_Homes_with_Active_Outbreak": 20,
+   "LTC_Homes_with_Resolved_Outbreak": 311,
+   "Confirmed_Active_LTC_Resident_Cases": 7,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 36,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-08",
+   "LTC_Homes_with_Active_Outbreak": 18,
+   "LTC_Homes_with_Resolved_Outbreak": 313,
+   "Confirmed_Active_LTC_Resident_Cases": 4,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 34,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-09",
+   "LTC_Homes_with_Active_Outbreak": 18,
+   "LTC_Homes_with_Resolved_Outbreak": 313,
+   "Confirmed_Active_LTC_Resident_Cases": 4,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 34,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-10",
+   "LTC_Homes_with_Active_Outbreak": 18,
+   "LTC_Homes_with_Resolved_Outbreak": 313,
+   "Confirmed_Active_LTC_Resident_Cases": 3,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 38,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-11",
+   "LTC_Homes_with_Active_Outbreak": 16,
+   "LTC_Homes_with_Resolved_Outbreak": 315,
+   "Confirmed_Active_LTC_Resident_Cases": 3,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 38,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-12",
+   "LTC_Homes_with_Active_Outbreak": 14,
+   "LTC_Homes_with_Resolved_Outbreak": 317,
+   "Confirmed_Active_LTC_Resident_Cases": 3,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 34,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-13",
+   "LTC_Homes_with_Active_Outbreak": 14,
+   "LTC_Homes_with_Resolved_Outbreak": 317,
+   "Confirmed_Active_LTC_Resident_Cases": 3,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 33,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-14",
+   "LTC_Homes_with_Active_Outbreak": 13,
+   "LTC_Homes_with_Resolved_Outbreak": 318,
+   "Confirmed_Active_LTC_Resident_Cases": 4,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 33,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-15",
+   "LTC_Homes_with_Active_Outbreak": 13,
+   "LTC_Homes_with_Resolved_Outbreak": 318,
+   "Confirmed_Active_LTC_Resident_Cases": 4,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 33,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-16",
+   "LTC_Homes_with_Active_Outbreak": 13,
+   "LTC_Homes_with_Resolved_Outbreak": 318,
+   "Confirmed_Active_LTC_Resident_Cases": 4,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 33,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-17",
+   "LTC_Homes_with_Active_Outbreak": 12,
+   "LTC_Homes_with_Resolved_Outbreak": 319,
+   "Confirmed_Active_LTC_Resident_Cases": 3,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 30,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-18",
+   "LTC_Homes_with_Active_Outbreak": 10,
+   "LTC_Homes_with_Resolved_Outbreak": 322,
+   "Confirmed_Active_LTC_Resident_Cases": 3,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 21,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-19",
+   "LTC_Homes_with_Active_Outbreak": 11,
+   "LTC_Homes_with_Resolved_Outbreak": 321,
+   "Confirmed_Active_LTC_Resident_Cases": 3,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 24,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-20",
+   "LTC_Homes_with_Active_Outbreak": 12,
+   "LTC_Homes_with_Resolved_Outbreak": 319,
+   "Confirmed_Active_LTC_Resident_Cases": 4,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 23,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-21",
+   "LTC_Homes_with_Active_Outbreak": 7,
+   "LTC_Homes_with_Resolved_Outbreak": 324,
+   "Confirmed_Active_LTC_Resident_Cases": 3,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 18,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-22",
+   "LTC_Homes_with_Active_Outbreak": 7,
+   "LTC_Homes_with_Resolved_Outbreak": 324,
+   "Confirmed_Active_LTC_Resident_Cases": 3,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 18,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-23",
+   "LTC_Homes_with_Active_Outbreak": 7,
+   "LTC_Homes_with_Resolved_Outbreak": 324,
+   "Confirmed_Active_LTC_Resident_Cases": 3,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 18,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-24",
+   "LTC_Homes_with_Active_Outbreak": 6,
+   "LTC_Homes_with_Resolved_Outbreak": 325,
+   "Confirmed_Active_LTC_Resident_Cases": 2,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 13,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-25",
+   "LTC_Homes_with_Active_Outbreak": 7,
+   "LTC_Homes_with_Resolved_Outbreak": 326,
+   "Confirmed_Active_LTC_Resident_Cases": 1,
+   "Total_LTC_Resident_Deaths": 1847,
+   "Confirmed_Active_LTC_HCW_Cases": 16,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-26",
+   "LTC_Homes_with_Active_Outbreak": 9,
+   "LTC_Homes_with_Resolved_Outbreak": 323,
+   "Confirmed_Active_LTC_Resident_Cases": 0,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 18,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-27",
+   "LTC_Homes_with_Active_Outbreak": 9,
+   "LTC_Homes_with_Resolved_Outbreak": 323,
+   "Confirmed_Active_LTC_Resident_Cases": 0,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 19,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-28",
+   "LTC_Homes_with_Active_Outbreak": 9,
+   "LTC_Homes_with_Resolved_Outbreak": 323,
+   "Confirmed_Active_LTC_Resident_Cases": 0,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 19,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-29",
+   "LTC_Homes_with_Active_Outbreak": 9,
+   "LTC_Homes_with_Resolved_Outbreak": 323,
+   "Confirmed_Active_LTC_Resident_Cases": 0,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 19,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-30",
+   "LTC_Homes_with_Active_Outbreak": 9,
+   "LTC_Homes_with_Resolved_Outbreak": 323,
+   "Confirmed_Active_LTC_Resident_Cases": 0,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 19,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-08-31",
+   "LTC_Homes_with_Active_Outbreak": 12,
+   "LTC_Homes_with_Resolved_Outbreak": 322,
+   "Confirmed_Active_LTC_Resident_Cases": 1,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 22,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-01",
+   "LTC_Homes_with_Active_Outbreak": 13,
+   "LTC_Homes_with_Resolved_Outbreak": 322,
+   "Confirmed_Active_LTC_Resident_Cases": 1,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 23,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-02",
+   "LTC_Homes_with_Active_Outbreak": 16,
+   "LTC_Homes_with_Resolved_Outbreak": 319,
+   "Confirmed_Active_LTC_Resident_Cases": 10,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 26,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-03",
+   "LTC_Homes_with_Active_Outbreak": 17,
+   "LTC_Homes_with_Resolved_Outbreak": 317,
+   "Confirmed_Active_LTC_Resident_Cases": 10,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 32,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-04",
+   "LTC_Homes_with_Active_Outbreak": 17,
+   "LTC_Homes_with_Resolved_Outbreak": 317,
+   "Confirmed_Active_LTC_Resident_Cases": 7,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 40,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-05",
+   "LTC_Homes_with_Active_Outbreak": 17,
+   "LTC_Homes_with_Resolved_Outbreak": 317,
+   "Confirmed_Active_LTC_Resident_Cases": 14,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 38,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-06",
+   "LTC_Homes_with_Active_Outbreak": 19,
+   "LTC_Homes_with_Resolved_Outbreak": 316,
+   "Confirmed_Active_LTC_Resident_Cases": 14,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 40,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-07",
+   "LTC_Homes_with_Active_Outbreak": 19,
+   "LTC_Homes_with_Resolved_Outbreak": 316,
+   "Confirmed_Active_LTC_Resident_Cases": 19,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 40,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-08",
+   "LTC_Homes_with_Active_Outbreak": 18,
+   "LTC_Homes_with_Resolved_Outbreak": 317,
+   "Confirmed_Active_LTC_Resident_Cases": 36,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 39,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-09",
+   "LTC_Homes_with_Active_Outbreak": 16,
+   "LTC_Homes_with_Resolved_Outbreak": 322,
+   "Confirmed_Active_LTC_Resident_Cases": 35,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 35,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-10",
+   "LTC_Homes_with_Active_Outbreak": 17,
+   "LTC_Homes_with_Resolved_Outbreak": 322,
+   "Confirmed_Active_LTC_Resident_Cases": 37,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 36,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-11",
+   "LTC_Homes_with_Active_Outbreak": 17,
+   "LTC_Homes_with_Resolved_Outbreak": 322,
+   "Confirmed_Active_LTC_Resident_Cases": 37,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 39,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-12",
+   "LTC_Homes_with_Active_Outbreak": 16,
+   "LTC_Homes_with_Resolved_Outbreak": 323,
+   "Confirmed_Active_LTC_Resident_Cases": 36,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 35,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-13",
+   "LTC_Homes_with_Active_Outbreak": 17,
+   "LTC_Homes_with_Resolved_Outbreak": 322,
+   "Confirmed_Active_LTC_Resident_Cases": 36,
+   "Total_LTC_Resident_Deaths": 1848,
+   "Confirmed_Active_LTC_HCW_Cases": 36,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-14",
+   "LTC_Homes_with_Active_Outbreak": 18,
+   "LTC_Homes_with_Resolved_Outbreak": 321,
+   "Confirmed_Active_LTC_Resident_Cases": 61,
+   "Total_LTC_Resident_Deaths": 1853,
+   "Confirmed_Active_LTC_HCW_Cases": 42,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-15",
+   "LTC_Homes_with_Active_Outbreak": 20,
+   "LTC_Homes_with_Resolved_Outbreak": 319,
+   "Confirmed_Active_LTC_Resident_Cases": 53,
+   "Total_LTC_Resident_Deaths": 1854,
+   "Confirmed_Active_LTC_HCW_Cases": 49,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-16",
+   "LTC_Homes_with_Active_Outbreak": 22,
+   "LTC_Homes_with_Resolved_Outbreak": 318,
+   "Confirmed_Active_LTC_Resident_Cases": 56,
+   "Total_LTC_Resident_Deaths": 1854,
+   "Confirmed_Active_LTC_HCW_Cases": 56,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-17",
+   "LTC_Homes_with_Active_Outbreak": 22,
+   "LTC_Homes_with_Resolved_Outbreak": 318,
+   "Confirmed_Active_LTC_Resident_Cases": 54,
+   "Total_LTC_Resident_Deaths": 1856,
+   "Confirmed_Active_LTC_HCW_Cases": 67,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-18",
+   "LTC_Homes_with_Active_Outbreak": 19,
+   "LTC_Homes_with_Resolved_Outbreak": 321,
+   "Confirmed_Active_LTC_Resident_Cases": 58,
+   "Total_LTC_Resident_Deaths": 1857,
+   "Confirmed_Active_LTC_HCW_Cases": 65,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-19",
+   "LTC_Homes_with_Active_Outbreak": 23,
+   "LTC_Homes_with_Resolved_Outbreak": 318,
+   "Confirmed_Active_LTC_Resident_Cases": 59,
+   "Total_LTC_Resident_Deaths": 1858,
+   "Confirmed_Active_LTC_HCW_Cases": 71,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-20",
+   "LTC_Homes_with_Active_Outbreak": 23,
+   "LTC_Homes_with_Resolved_Outbreak": 318,
+   "Confirmed_Active_LTC_Resident_Cases": 71,
+   "Total_LTC_Resident_Deaths": 1859,
+   "Confirmed_Active_LTC_HCW_Cases": 78,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-21",
+   "LTC_Homes_with_Active_Outbreak": 29,
+   "LTC_Homes_with_Resolved_Outbreak": 314,
+   "Confirmed_Active_LTC_Resident_Cases": 51,
+   "Total_LTC_Resident_Deaths": 1859,
+   "Confirmed_Active_LTC_HCW_Cases": 82,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-22",
+   "LTC_Homes_with_Active_Outbreak": 31,
+   "LTC_Homes_with_Resolved_Outbreak": 312,
+   "Confirmed_Active_LTC_Resident_Cases": 58,
+   "Total_LTC_Resident_Deaths": 1860,
+   "Confirmed_Active_LTC_HCW_Cases": 83,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-23",
+   "LTC_Homes_with_Active_Outbreak": 33,
+   "LTC_Homes_with_Resolved_Outbreak": 311,
+   "Confirmed_Active_LTC_Resident_Cases": 62,
+   "Total_LTC_Resident_Deaths": 1861,
+   "Confirmed_Active_LTC_HCW_Cases": 83,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-24",
+   "LTC_Homes_with_Active_Outbreak": 32,
+   "LTC_Homes_with_Resolved_Outbreak": 312,
+   "Confirmed_Active_LTC_Resident_Cases": 69,
+   "Total_LTC_Resident_Deaths": 1861,
+   "Confirmed_Active_LTC_HCW_Cases": 85,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-25",
+   "LTC_Homes_with_Active_Outbreak": 33,
+   "LTC_Homes_with_Resolved_Outbreak": 311,
+   "Confirmed_Active_LTC_Resident_Cases": 63,
+   "Total_LTC_Resident_Deaths": 1862,
+   "Confirmed_Active_LTC_HCW_Cases": 94,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-26",
+   "LTC_Homes_with_Active_Outbreak": 40,
+   "LTC_Homes_with_Resolved_Outbreak": 306,
+   "Confirmed_Active_LTC_Resident_Cases": 63,
+   "Total_LTC_Resident_Deaths": 1862,
+   "Confirmed_Active_LTC_HCW_Cases": 109,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-27",
+   "LTC_Homes_with_Active_Outbreak": 44,
+   "LTC_Homes_with_Resolved_Outbreak": 302,
+   "Confirmed_Active_LTC_Resident_Cases": 68,
+   "Total_LTC_Resident_Deaths": 1863,
+   "Confirmed_Active_LTC_HCW_Cases": 116,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-28",
+   "LTC_Homes_with_Active_Outbreak": 46,
+   "LTC_Homes_with_Resolved_Outbreak": 301,
+   "Confirmed_Active_LTC_Resident_Cases": 78,
+   "Total_LTC_Resident_Deaths": 1866,
+   "Confirmed_Active_LTC_HCW_Cases": 123,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-29",
+   "LTC_Homes_with_Active_Outbreak": 46,
+   "LTC_Homes_with_Resolved_Outbreak": 301,
+   "Confirmed_Active_LTC_Resident_Cases": 90,
+   "Total_LTC_Resident_Deaths": 1867,
+   "Confirmed_Active_LTC_HCW_Cases": 130,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-09-30",
+   "LTC_Homes_with_Active_Outbreak": 48,
+   "LTC_Homes_with_Resolved_Outbreak": 300,
+   "Confirmed_Active_LTC_Resident_Cases": 104,
+   "Total_LTC_Resident_Deaths": 1869,
+   "Confirmed_Active_LTC_HCW_Cases": 133,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-01",
+   "LTC_Homes_with_Active_Outbreak": 44,
+   "LTC_Homes_with_Resolved_Outbreak": 304,
+   "Confirmed_Active_LTC_Resident_Cases": 96,
+   "Total_LTC_Resident_Deaths": 1870,
+   "Confirmed_Active_LTC_HCW_Cases": 137,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-02",
+   "LTC_Homes_with_Active_Outbreak": 45,
+   "LTC_Homes_with_Resolved_Outbreak": 303,
+   "Confirmed_Active_LTC_Resident_Cases": 115,
+   "Total_LTC_Resident_Deaths": 1872,
+   "Confirmed_Active_LTC_HCW_Cases": 135,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-03",
+   "LTC_Homes_with_Active_Outbreak": 49,
+   "LTC_Homes_with_Resolved_Outbreak": 300,
+   "Confirmed_Active_LTC_Resident_Cases": 128,
+   "Total_LTC_Resident_Deaths": 1872,
+   "Confirmed_Active_LTC_HCW_Cases": 153,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-04",
+   "LTC_Homes_with_Active_Outbreak": 50,
+   "LTC_Homes_with_Resolved_Outbreak": 299,
+   "Confirmed_Active_LTC_Resident_Cases": 124,
+   "Total_LTC_Resident_Deaths": 1873,
+   "Confirmed_Active_LTC_HCW_Cases": 158,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-05",
+   "LTC_Homes_with_Active_Outbreak": 51,
+   "LTC_Homes_with_Resolved_Outbreak": 299,
+   "Confirmed_Active_LTC_Resident_Cases": 136,
+   "Total_LTC_Resident_Deaths": 1875,
+   "Confirmed_Active_LTC_HCW_Cases": 165,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-06",
+   "LTC_Homes_with_Active_Outbreak": 53,
+   "LTC_Homes_with_Resolved_Outbreak": 297,
+   "Confirmed_Active_LTC_Resident_Cases": 154,
+   "Total_LTC_Resident_Deaths": 1876,
+   "Confirmed_Active_LTC_HCW_Cases": 165,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-07",
+   "LTC_Homes_with_Active_Outbreak": 57,
+   "LTC_Homes_with_Resolved_Outbreak": 295,
+   "Confirmed_Active_LTC_Resident_Cases": 153,
+   "Total_LTC_Resident_Deaths": 1879,
+   "Confirmed_Active_LTC_HCW_Cases": 172,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-08",
+   "LTC_Homes_with_Active_Outbreak": 56,
+   "LTC_Homes_with_Resolved_Outbreak": 296,
+   "Confirmed_Active_LTC_Resident_Cases": 145,
+   "Total_LTC_Resident_Deaths": 1880,
+   "Confirmed_Active_LTC_HCW_Cases": 178,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-09",
+   "LTC_Homes_with_Active_Outbreak": 58,
+   "LTC_Homes_with_Resolved_Outbreak": 298,
+   "Confirmed_Active_LTC_Resident_Cases": 150,
+   "Total_LTC_Resident_Deaths": 1886,
+   "Confirmed_Active_LTC_HCW_Cases": 187,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-10",
+   "LTC_Homes_with_Active_Outbreak": 58,
+   "LTC_Homes_with_Resolved_Outbreak": 298,
+   "Confirmed_Active_LTC_Resident_Cases": 146,
+   "Total_LTC_Resident_Deaths": 1888,
+   "Confirmed_Active_LTC_HCW_Cases": 197,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-11",
+   "LTC_Homes_with_Active_Outbreak": 63,
+   "LTC_Homes_with_Resolved_Outbreak": 296,
+   "Confirmed_Active_LTC_Resident_Cases": 155,
+   "Total_LTC_Resident_Deaths": 1891,
+   "Confirmed_Active_LTC_HCW_Cases": 206,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-12",
+   "LTC_Homes_with_Active_Outbreak": 66,
+   "LTC_Homes_with_Resolved_Outbreak": 295,
+   "Confirmed_Active_LTC_Resident_Cases": 157,
+   "Total_LTC_Resident_Deaths": 1891,
+   "Confirmed_Active_LTC_HCW_Cases": 210,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-13",
+   "LTC_Homes_with_Active_Outbreak": 65,
+   "LTC_Homes_with_Resolved_Outbreak": 297,
+   "Confirmed_Active_LTC_Resident_Cases": 142,
+   "Total_LTC_Resident_Deaths": 1896,
+   "Confirmed_Active_LTC_HCW_Cases": 189,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-14",
+   "LTC_Homes_with_Active_Outbreak": 71,
+   "LTC_Homes_with_Resolved_Outbreak": 292,
+   "Confirmed_Active_LTC_Resident_Cases": 159,
+   "Total_LTC_Resident_Deaths": 1897,
+   "Confirmed_Active_LTC_HCW_Cases": 199,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-15",
+   "LTC_Homes_with_Active_Outbreak": 72,
+   "LTC_Homes_with_Resolved_Outbreak": 291,
+   "Confirmed_Active_LTC_Resident_Cases": 158,
+   "Total_LTC_Resident_Deaths": 1901,
+   "Confirmed_Active_LTC_HCW_Cases": 203,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-16",
+   "LTC_Homes_with_Active_Outbreak": 78,
+   "LTC_Homes_with_Resolved_Outbreak": 287,
+   "Confirmed_Active_LTC_Resident_Cases": 185,
+   "Total_LTC_Resident_Deaths": 1903,
+   "Confirmed_Active_LTC_HCW_Cases": 203,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-17",
+   "LTC_Homes_with_Active_Outbreak": 79,
+   "LTC_Homes_with_Resolved_Outbreak": 286,
+   "Confirmed_Active_LTC_Resident_Cases": 214,
+   "Total_LTC_Resident_Deaths": 1906,
+   "Confirmed_Active_LTC_HCW_Cases": 223,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-18",
+   "LTC_Homes_with_Active_Outbreak": 86,
+   "LTC_Homes_with_Resolved_Outbreak": 281,
+   "Confirmed_Active_LTC_Resident_Cases": 209,
+   "Total_LTC_Resident_Deaths": 1906,
+   "Confirmed_Active_LTC_HCW_Cases": 234,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-19",
+   "LTC_Homes_with_Active_Outbreak": 87,
+   "LTC_Homes_with_Resolved_Outbreak": 282,
+   "Confirmed_Active_LTC_Resident_Cases": 197,
+   "Total_LTC_Resident_Deaths": 1907,
+   "Confirmed_Active_LTC_HCW_Cases": 249,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-20",
+   "LTC_Homes_with_Active_Outbreak": 86,
+   "LTC_Homes_with_Resolved_Outbreak": 286,
+   "Confirmed_Active_LTC_Resident_Cases": 216,
+   "Total_LTC_Resident_Deaths": 1908,
+   "Confirmed_Active_LTC_HCW_Cases": 260,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-21",
+   "LTC_Homes_with_Active_Outbreak": 80,
+   "LTC_Homes_with_Resolved_Outbreak": 291,
+   "Confirmed_Active_LTC_Resident_Cases": 203,
+   "Total_LTC_Resident_Deaths": 1910,
+   "Confirmed_Active_LTC_HCW_Cases": 243,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-22",
+   "LTC_Homes_with_Active_Outbreak": 77,
+   "LTC_Homes_with_Resolved_Outbreak": 295,
+   "Confirmed_Active_LTC_Resident_Cases": 229,
+   "Total_LTC_Resident_Deaths": 1913,
+   "Confirmed_Active_LTC_HCW_Cases": 237,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-23",
+   "LTC_Homes_with_Active_Outbreak": 78,
+   "LTC_Homes_with_Resolved_Outbreak": 296,
+   "Confirmed_Active_LTC_Resident_Cases": 321,
+   "Total_LTC_Resident_Deaths": 1913,
+   "Confirmed_Active_LTC_HCW_Cases": 269,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-24",
+   "LTC_Homes_with_Active_Outbreak": 82,
+   "LTC_Homes_with_Resolved_Outbreak": 295,
+   "Confirmed_Active_LTC_Resident_Cases": 376,
+   "Total_LTC_Resident_Deaths": 1919,
+   "Confirmed_Active_LTC_HCW_Cases": 282,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-25",
+   "LTC_Homes_with_Active_Outbreak": 86,
+   "LTC_Homes_with_Resolved_Outbreak": 292,
+   "Confirmed_Active_LTC_Resident_Cases": 381,
+   "Total_LTC_Resident_Deaths": 1921,
+   "Confirmed_Active_LTC_HCW_Cases": 295,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-26",
+   "LTC_Homes_with_Active_Outbreak": 88,
+   "LTC_Homes_with_Resolved_Outbreak": 293,
+   "Confirmed_Active_LTC_Resident_Cases": 397,
+   "Total_LTC_Resident_Deaths": 1932,
+   "Confirmed_Active_LTC_HCW_Cases": 299,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-27",
+   "LTC_Homes_with_Active_Outbreak": 87,
+   "LTC_Homes_with_Resolved_Outbreak": 295,
+   "Confirmed_Active_LTC_Resident_Cases": 396,
+   "Total_LTC_Resident_Deaths": 1934,
+   "Confirmed_Active_LTC_HCW_Cases": 297,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-28",
+   "LTC_Homes_with_Active_Outbreak": 83,
+   "LTC_Homes_with_Resolved_Outbreak": 300,
+   "Confirmed_Active_LTC_Resident_Cases": 419,
+   "Total_LTC_Resident_Deaths": 1938,
+   "Confirmed_Active_LTC_HCW_Cases": 283,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-29",
+   "LTC_Homes_with_Active_Outbreak": 78,
+   "LTC_Homes_with_Resolved_Outbreak": 305,
+   "Confirmed_Active_LTC_Resident_Cases": 421,
+   "Total_LTC_Resident_Deaths": 1939,
+   "Confirmed_Active_LTC_HCW_Cases": 280,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-30",
+   "LTC_Homes_with_Active_Outbreak": 72,
+   "LTC_Homes_with_Resolved_Outbreak": 311,
+   "Confirmed_Active_LTC_Resident_Cases": 457,
+   "Total_LTC_Resident_Deaths": 1950,
+   "Confirmed_Active_LTC_HCW_Cases": 275,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-10-31",
+   "LTC_Homes_with_Active_Outbreak": 74,
+   "LTC_Homes_with_Resolved_Outbreak": 310,
+   "Confirmed_Active_LTC_Resident_Cases": 509,
+   "Total_LTC_Resident_Deaths": 1955,
+   "Confirmed_Active_LTC_HCW_Cases": 304,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-01",
+   "LTC_Homes_with_Active_Outbreak": 78,
+   "LTC_Homes_with_Resolved_Outbreak": 307,
+   "Confirmed_Active_LTC_Resident_Cases": 502,
+   "Total_LTC_Resident_Deaths": 1959,
+   "Confirmed_Active_LTC_HCW_Cases": 318,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-02",
+   "LTC_Homes_with_Active_Outbreak": 78,
+   "LTC_Homes_with_Resolved_Outbreak": 309,
+   "Confirmed_Active_LTC_Resident_Cases": 530,
+   "Total_LTC_Resident_Deaths": 1963,
+   "Confirmed_Active_LTC_HCW_Cases": 329,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-03",
+   "LTC_Homes_with_Active_Outbreak": 85,
+   "LTC_Homes_with_Resolved_Outbreak": 302,
+   "Confirmed_Active_LTC_Resident_Cases": 485,
+   "Total_LTC_Resident_Deaths": 1970,
+   "Confirmed_Active_LTC_HCW_Cases": 303,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-04",
+   "LTC_Homes_with_Active_Outbreak": 89,
+   "LTC_Homes_with_Resolved_Outbreak": 299,
+   "Confirmed_Active_LTC_Resident_Cases": 522,
+   "Total_LTC_Resident_Deaths": 1976,
+   "Confirmed_Active_LTC_HCW_Cases": 320,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-05",
+   "LTC_Homes_with_Active_Outbreak": 86,
+   "LTC_Homes_with_Resolved_Outbreak": 302,
+   "Confirmed_Active_LTC_Resident_Cases": 521,
+   "Total_LTC_Resident_Deaths": 1986,
+   "Confirmed_Active_LTC_HCW_Cases": 319,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-06",
+   "LTC_Homes_with_Active_Outbreak": 91,
+   "LTC_Homes_with_Resolved_Outbreak": 299,
+   "Confirmed_Active_LTC_Resident_Cases": 586,
+   "Total_LTC_Resident_Deaths": 1995,
+   "Confirmed_Active_LTC_HCW_Cases": 363,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-07",
+   "LTC_Homes_with_Active_Outbreak": 91,
+   "LTC_Homes_with_Resolved_Outbreak": 297,
+   "Confirmed_Active_LTC_Resident_Cases": 604,
+   "Total_LTC_Resident_Deaths": 1996,
+   "Confirmed_Active_LTC_HCW_Cases": 374,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-08",
+   "LTC_Homes_with_Active_Outbreak": 96,
+   "LTC_Homes_with_Resolved_Outbreak": 293,
+   "Confirmed_Active_LTC_Resident_Cases": 625,
+   "Total_LTC_Resident_Deaths": 2005,
+   "Confirmed_Active_LTC_HCW_Cases": 399,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-09",
+   "LTC_Homes_with_Active_Outbreak": 95,
+   "LTC_Homes_with_Resolved_Outbreak": 296,
+   "Confirmed_Active_LTC_Resident_Cases": 647,
+   "Total_LTC_Resident_Deaths": 2017,
+   "Confirmed_Active_LTC_HCW_Cases": 399,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-10",
+   "LTC_Homes_with_Active_Outbreak": 93,
+   "LTC_Homes_with_Resolved_Outbreak": 298,
+   "Confirmed_Active_LTC_Resident_Cases": 683,
+   "Total_LTC_Resident_Deaths": 2041,
+   "Confirmed_Active_LTC_HCW_Cases": 410,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-11",
+   "LTC_Homes_with_Active_Outbreak": 94,
+   "LTC_Homes_with_Resolved_Outbreak": 299,
+   "Confirmed_Active_LTC_Resident_Cases": 695,
+   "Total_LTC_Resident_Deaths": 2048,
+   "Confirmed_Active_LTC_HCW_Cases": 435,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-12",
+   "LTC_Homes_with_Active_Outbreak": 93,
+   "LTC_Homes_with_Resolved_Outbreak": 300,
+   "Confirmed_Active_LTC_Resident_Cases": 702,
+   "Total_LTC_Resident_Deaths": 2060,
+   "Confirmed_Active_LTC_HCW_Cases": 478,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-13",
+   "LTC_Homes_with_Active_Outbreak": 100,
+   "LTC_Homes_with_Resolved_Outbreak": 297,
+   "Confirmed_Active_LTC_Resident_Cases": 721,
+   "Total_LTC_Resident_Deaths": 2068,
+   "Confirmed_Active_LTC_HCW_Cases": 524,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-14",
+   "LTC_Homes_with_Active_Outbreak": 101,
+   "LTC_Homes_with_Resolved_Outbreak": 297,
+   "Confirmed_Active_LTC_Resident_Cases": 719,
+   "Total_LTC_Resident_Deaths": 2077,
+   "Confirmed_Active_LTC_HCW_Cases": 521,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-15",
+   "LTC_Homes_with_Active_Outbreak": 107,
+   "LTC_Homes_with_Resolved_Outbreak": 294,
+   "Confirmed_Active_LTC_Resident_Cases": 716,
+   "Total_LTC_Resident_Deaths": 2081,
+   "Confirmed_Active_LTC_HCW_Cases": 533,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-16",
+   "LTC_Homes_with_Active_Outbreak": 108,
+   "LTC_Homes_with_Resolved_Outbreak": 293,
+   "Confirmed_Active_LTC_Resident_Cases": 700,
+   "Total_LTC_Resident_Deaths": 2092,
+   "Confirmed_Active_LTC_HCW_Cases": 524,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-17",
+   "LTC_Homes_with_Active_Outbreak": 100,
+   "LTC_Homes_with_Resolved_Outbreak": 302,
+   "Confirmed_Active_LTC_Resident_Cases": 678,
+   "Total_LTC_Resident_Deaths": 2109,
+   "Confirmed_Active_LTC_HCW_Cases": 541,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-18",
+   "LTC_Homes_with_Active_Outbreak": 103,
+   "LTC_Homes_with_Resolved_Outbreak": 300,
+   "Confirmed_Active_LTC_Resident_Cases": 619,
+   "Total_LTC_Resident_Deaths": 2115,
+   "Confirmed_Active_LTC_HCW_Cases": 529,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-19",
+   "LTC_Homes_with_Active_Outbreak": 102,
+   "LTC_Homes_with_Resolved_Outbreak": 301,
+   "Confirmed_Active_LTC_Resident_Cases": 558,
+   "Total_LTC_Resident_Deaths": 2123,
+   "Confirmed_Active_LTC_HCW_Cases": 507,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-20",
+   "LTC_Homes_with_Active_Outbreak": 99,
+   "LTC_Homes_with_Resolved_Outbreak": 304,
+   "Confirmed_Active_LTC_Resident_Cases": 562,
+   "Total_LTC_Resident_Deaths": 2137,
+   "Confirmed_Active_LTC_HCW_Cases": 476,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-21",
+   "LTC_Homes_with_Active_Outbreak": 99,
+   "LTC_Homes_with_Resolved_Outbreak": 305,
+   "Confirmed_Active_LTC_Resident_Cases": 590,
+   "Total_LTC_Resident_Deaths": 2141,
+   "Confirmed_Active_LTC_HCW_Cases": 473,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-22",
+   "LTC_Homes_with_Active_Outbreak": 101,
+   "LTC_Homes_with_Resolved_Outbreak": 303,
+   "Confirmed_Active_LTC_Resident_Cases": 528,
+   "Total_LTC_Resident_Deaths": 2150,
+   "Confirmed_Active_LTC_HCW_Cases": 467,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-23",
+   "LTC_Homes_with_Active_Outbreak": 102,
+   "LTC_Homes_with_Resolved_Outbreak": 301,
+   "Confirmed_Active_LTC_Resident_Cases": 534,
+   "Total_LTC_Resident_Deaths": 2155,
+   "Confirmed_Active_LTC_HCW_Cases": 451,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-24",
+   "LTC_Homes_with_Active_Outbreak": 104,
+   "LTC_Homes_with_Resolved_Outbreak": 299,
+   "Confirmed_Active_LTC_Resident_Cases": 542,
+   "Total_LTC_Resident_Deaths": 2173,
+   "Confirmed_Active_LTC_HCW_Cases": 453,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-25",
+   "LTC_Homes_with_Active_Outbreak": 108,
+   "LTC_Homes_with_Resolved_Outbreak": 297,
+   "Confirmed_Active_LTC_Resident_Cases": 543,
+   "Total_LTC_Resident_Deaths": 2190,
+   "Confirmed_Active_LTC_HCW_Cases": 429,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-26",
+   "LTC_Homes_with_Active_Outbreak": 106,
+   "LTC_Homes_with_Resolved_Outbreak": 299,
+   "Confirmed_Active_LTC_Resident_Cases": 516,
+   "Total_LTC_Resident_Deaths": 2202,
+   "Confirmed_Active_LTC_HCW_Cases": 422,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-27",
+   "LTC_Homes_with_Active_Outbreak": 105,
+   "LTC_Homes_with_Resolved_Outbreak": 299,
+   "Confirmed_Active_LTC_Resident_Cases": 545,
+   "Total_LTC_Resident_Deaths": 2210,
+   "Confirmed_Active_LTC_HCW_Cases": 441,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-28",
+   "LTC_Homes_with_Active_Outbreak": 109,
+   "LTC_Homes_with_Resolved_Outbreak": 296,
+   "Confirmed_Active_LTC_Resident_Cases": 598,
+   "Total_LTC_Resident_Deaths": 2214,
+   "Confirmed_Active_LTC_HCW_Cases": 473,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-29",
+   "LTC_Homes_with_Active_Outbreak": 109,
+   "LTC_Homes_with_Resolved_Outbreak": 296,
+   "Confirmed_Active_LTC_Resident_Cases": 710,
+   "Total_LTC_Resident_Deaths": 2223,
+   "Confirmed_Active_LTC_HCW_Cases": 483,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-11-30",
+   "LTC_Homes_with_Active_Outbreak": 109,
+   "LTC_Homes_with_Resolved_Outbreak": 296,
+   "Confirmed_Active_LTC_Resident_Cases": 743,
+   "Total_LTC_Resident_Deaths": 2228,
+   "Confirmed_Active_LTC_HCW_Cases": 509,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-01",
+   "LTC_Homes_with_Active_Outbreak": 111,
+   "LTC_Homes_with_Resolved_Outbreak": 294,
+   "Confirmed_Active_LTC_Resident_Cases": 664,
+   "Total_LTC_Resident_Deaths": 2239,
+   "Confirmed_Active_LTC_HCW_Cases": 517,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-02",
+   "LTC_Homes_with_Active_Outbreak": 116,
+   "LTC_Homes_with_Resolved_Outbreak": 290,
+   "Confirmed_Active_LTC_Resident_Cases": 707,
+   "Total_LTC_Resident_Deaths": 2253,
+   "Confirmed_Active_LTC_HCW_Cases": 553,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-03",
+   "LTC_Homes_with_Active_Outbreak": 112,
+   "LTC_Homes_with_Resolved_Outbreak": 294,
+   "Confirmed_Active_LTC_Resident_Cases": 680,
+   "Total_LTC_Resident_Deaths": 2265,
+   "Confirmed_Active_LTC_HCW_Cases": 544,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-04",
+   "LTC_Homes_with_Active_Outbreak": 107,
+   "LTC_Homes_with_Resolved_Outbreak": 299,
+   "Confirmed_Active_LTC_Resident_Cases": 673,
+   "Total_LTC_Resident_Deaths": 2270,
+   "Confirmed_Active_LTC_HCW_Cases": 541,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-05",
+   "LTC_Homes_with_Active_Outbreak": 111,
+   "LTC_Homes_with_Resolved_Outbreak": 299,
+   "Confirmed_Active_LTC_Resident_Cases": 686,
+   "Total_LTC_Resident_Deaths": 2293,
+   "Confirmed_Active_LTC_HCW_Cases": 568,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-06",
+   "LTC_Homes_with_Active_Outbreak": 113,
+   "LTC_Homes_with_Resolved_Outbreak": 298,
+   "Confirmed_Active_LTC_Resident_Cases": 720,
+   "Total_LTC_Resident_Deaths": 2305,
+   "Confirmed_Active_LTC_HCW_Cases": 582,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-07",
+   "LTC_Homes_with_Active_Outbreak": 116,
+   "LTC_Homes_with_Resolved_Outbreak": 297,
+   "Confirmed_Active_LTC_Resident_Cases": 673,
+   "Total_LTC_Resident_Deaths": 2326,
+   "Confirmed_Active_LTC_HCW_Cases": 611,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-08",
+   "LTC_Homes_with_Active_Outbreak": 115,
+   "LTC_Homes_with_Resolved_Outbreak": 299,
+   "Confirmed_Active_LTC_Resident_Cases": 618,
+   "Total_LTC_Resident_Deaths": 2341,
+   "Confirmed_Active_LTC_HCW_Cases": 617,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-09",
+   "LTC_Homes_with_Active_Outbreak": 118,
+   "LTC_Homes_with_Resolved_Outbreak": 299,
+   "Confirmed_Active_LTC_Resident_Cases": 623,
+   "Total_LTC_Resident_Deaths": 2358,
+   "Confirmed_Active_LTC_HCW_Cases": 617,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-10",
+   "LTC_Homes_with_Active_Outbreak": 131,
+   "LTC_Homes_with_Resolved_Outbreak": 288,
+   "Confirmed_Active_LTC_Resident_Cases": 604,
+   "Total_LTC_Resident_Deaths": 2366,
+   "Confirmed_Active_LTC_HCW_Cases": 632,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-11",
+   "LTC_Homes_with_Active_Outbreak": 128,
+   "LTC_Homes_with_Resolved_Outbreak": 294,
+   "Confirmed_Active_LTC_Resident_Cases": 585,
+   "Total_LTC_Resident_Deaths": 2381,
+   "Confirmed_Active_LTC_HCW_Cases": 648,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-12",
+   "LTC_Homes_with_Active_Outbreak": 136,
+   "LTC_Homes_with_Resolved_Outbreak": 287,
+   "Confirmed_Active_LTC_Resident_Cases": 644,
+   "Total_LTC_Resident_Deaths": 2391,
+   "Confirmed_Active_LTC_HCW_Cases": 712,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-13",
+   "LTC_Homes_with_Active_Outbreak": 137,
+   "LTC_Homes_with_Resolved_Outbreak": 288,
+   "Confirmed_Active_LTC_Resident_Cases": 659,
+   "Total_LTC_Resident_Deaths": 2400,
+   "Confirmed_Active_LTC_HCW_Cases": 737,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-14",
+   "LTC_Homes_with_Active_Outbreak": 134,
+   "LTC_Homes_with_Resolved_Outbreak": 292,
+   "Confirmed_Active_LTC_Resident_Cases": 695,
+   "Total_LTC_Resident_Deaths": 2424,
+   "Confirmed_Active_LTC_HCW_Cases": 761,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-15",
+   "LTC_Homes_with_Active_Outbreak": 135,
+   "LTC_Homes_with_Resolved_Outbreak": 295,
+   "Confirmed_Active_LTC_Resident_Cases": 728,
+   "Total_LTC_Resident_Deaths": 2442,
+   "Confirmed_Active_LTC_HCW_Cases": 788,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-16",
+   "LTC_Homes_with_Active_Outbreak": 140,
+   "LTC_Homes_with_Resolved_Outbreak": 291,
+   "Confirmed_Active_LTC_Resident_Cases": 819,
+   "Total_LTC_Resident_Deaths": 2446,
+   "Confirmed_Active_LTC_HCW_Cases": 827,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-17",
+   "LTC_Homes_with_Active_Outbreak": 139,
+   "LTC_Homes_with_Resolved_Outbreak": 294,
+   "Confirmed_Active_LTC_Resident_Cases": 757,
+   "Total_LTC_Resident_Deaths": 2471,
+   "Confirmed_Active_LTC_HCW_Cases": 843,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-18",
+   "LTC_Homes_with_Active_Outbreak": 145,
+   "LTC_Homes_with_Resolved_Outbreak": 290,
+   "Confirmed_Active_LTC_Resident_Cases": 795,
+   "Total_LTC_Resident_Deaths": 2481,
+   "Confirmed_Active_LTC_HCW_Cases": 902,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-19",
+   "LTC_Homes_with_Active_Outbreak": 154,
+   "LTC_Homes_with_Resolved_Outbreak": 284,
+   "Confirmed_Active_LTC_Resident_Cases": 931,
+   "Total_LTC_Resident_Deaths": 2502,
+   "Confirmed_Active_LTC_HCW_Cases": 900,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-20",
+   "LTC_Homes_with_Active_Outbreak": 160,
+   "LTC_Homes_with_Resolved_Outbreak": 280,
+   "Confirmed_Active_LTC_Resident_Cases": 965,
+   "Total_LTC_Resident_Deaths": 2508,
+   "Confirmed_Active_LTC_HCW_Cases": 959,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-21",
+   "LTC_Homes_with_Active_Outbreak": 159,
+   "LTC_Homes_with_Resolved_Outbreak": 285,
+   "Confirmed_Active_LTC_Resident_Cases": 963,
+   "Total_LTC_Resident_Deaths": 2537,
+   "Confirmed_Active_LTC_HCW_Cases": 972,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-22",
+   "LTC_Homes_with_Active_Outbreak": 161,
+   "LTC_Homes_with_Resolved_Outbreak": 286,
+   "Confirmed_Active_LTC_Resident_Cases": 1053,
+   "Total_LTC_Resident_Deaths": 2555,
+   "Confirmed_Active_LTC_HCW_Cases": 997,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-23",
+   "LTC_Homes_with_Active_Outbreak": 162,
+   "LTC_Homes_with_Resolved_Outbreak": 286,
+   "Confirmed_Active_LTC_Resident_Cases": 1075,
+   "Total_LTC_Resident_Deaths": 2578,
+   "Confirmed_Active_LTC_HCW_Cases": 976,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-24",
+   "LTC_Homes_with_Active_Outbreak": 163,
+   "LTC_Homes_with_Resolved_Outbreak": 287,
+   "Confirmed_Active_LTC_Resident_Cases": 1146,
+   "Total_LTC_Resident_Deaths": 2596,
+   "Confirmed_Active_LTC_HCW_Cases": 990,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-27",
+   "LTC_Homes_with_Active_Outbreak": 183,
+   "LTC_Homes_with_Resolved_Outbreak": 270,
+   "Confirmed_Active_LTC_Resident_Cases": 1168,
+   "Total_LTC_Resident_Deaths": 2659,
+   "Confirmed_Active_LTC_HCW_Cases": 1064,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-28",
+   "LTC_Homes_with_Active_Outbreak": 194,
+   "LTC_Homes_with_Resolved_Outbreak": 262,
+   "Confirmed_Active_LTC_Resident_Cases": 1145,
+   "Total_LTC_Resident_Deaths": 2688,
+   "Confirmed_Active_LTC_HCW_Cases": 1032,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-29",
+   "LTC_Homes_with_Active_Outbreak": 192,
+   "LTC_Homes_with_Resolved_Outbreak": 264,
+   "Confirmed_Active_LTC_Resident_Cases": 1188,
+   "Total_LTC_Resident_Deaths": 2721,
+   "Confirmed_Active_LTC_HCW_Cases": 1057,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-30",
+   "LTC_Homes_with_Active_Outbreak": 187,
+   "LTC_Homes_with_Resolved_Outbreak": 274,
+   "Confirmed_Active_LTC_Resident_Cases": 1186,
+   "Total_LTC_Resident_Deaths": 2749,
+   "Confirmed_Active_LTC_HCW_Cases": 1050,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2020-12-31",
+   "LTC_Homes_with_Active_Outbreak": 188,
+   "LTC_Homes_with_Resolved_Outbreak": 274,
+   "Confirmed_Active_LTC_Resident_Cases": 1159,
+   "Total_LTC_Resident_Deaths": 2769,
+   "Confirmed_Active_LTC_HCW_Cases": 1009,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2021-01-02",
+   "LTC_Homes_with_Active_Outbreak": 207,
+   "LTC_Homes_with_Resolved_Outbreak": 260,
+   "Confirmed_Active_LTC_Resident_Cases": 1140,
+   "Total_LTC_Resident_Deaths": 2781,
+   "Confirmed_Active_LTC_HCW_Cases": 1130,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2021-01-03",
+   "LTC_Homes_with_Active_Outbreak": 219,
+   "LTC_Homes_with_Resolved_Outbreak": 253,
+   "Confirmed_Active_LTC_Resident_Cases": 1160,
+   "Total_LTC_Resident_Deaths": 2795,
+   "Confirmed_Active_LTC_HCW_Cases": 1140,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2021-01-04",
+   "LTC_Homes_with_Active_Outbreak": 216,
+   "LTC_Homes_with_Resolved_Outbreak": 257,
+   "Confirmed_Active_LTC_Resident_Cases": 1097,
+   "Total_LTC_Resident_Deaths": 2830,
+   "Confirmed_Active_LTC_HCW_Cases": 1101,
+   "Total_LTC_HCW_Deaths": 8
+ },
+ {
+   "Report_Data_Extracted": "2021-01-05",
+   "LTC_Homes_with_Active_Outbreak": 220,
+   "LTC_Homes_with_Resolved_Outbreak": 255,
+   "Confirmed_Active_LTC_Resident_Cases": 1180,
+   "Total_LTC_Resident_Deaths": 2877,
+   "Confirmed_Active_LTC_HCW_Cases": 1162,
+   "Total_LTC_HCW_Deaths": 10
+ },
+ {
+   "Report_Data_Extracted": "2021-01-06",
+   "LTC_Homes_with_Active_Outbreak": 218,
+   "LTC_Homes_with_Resolved_Outbreak": 259,
+   "Confirmed_Active_LTC_Resident_Cases": 1258,
+   "Total_LTC_Resident_Deaths": 2909,
+   "Confirmed_Active_LTC_HCW_Cases": 1230,
+   "Total_LTC_HCW_Deaths": 10
+ },
+ {
+   "Report_Data_Extracted": "2021-01-07",
+   "LTC_Homes_with_Active_Outbreak": 224,
+   "LTC_Homes_with_Resolved_Outbreak": 256,
+   "Confirmed_Active_LTC_Resident_Cases": 1350,
+   "Total_LTC_Resident_Deaths": 2929,
+   "Confirmed_Active_LTC_HCW_Cases": 1269,
+   "Total_LTC_HCW_Deaths": 10
+ },
+ {
+   "Report_Data_Extracted": "2021-01-08",
+   "LTC_Homes_with_Active_Outbreak": 228,
+   "LTC_Homes_with_Resolved_Outbreak": 254,
+   "Confirmed_Active_LTC_Resident_Cases": 1412,
+   "Total_LTC_Resident_Deaths": 2952,
+   "Confirmed_Active_LTC_HCW_Cases": 1224,
+   "Total_LTC_HCW_Deaths": 10
+ },
+ {
+   "Report_Data_Extracted": "2021-01-09",
+   "LTC_Homes_with_Active_Outbreak": 245,
+   "LTC_Homes_with_Resolved_Outbreak": 241,
+   "Confirmed_Active_LTC_Resident_Cases": 1432,
+   "Total_LTC_Resident_Deaths": 2967,
+   "Confirmed_Active_LTC_HCW_Cases": 1236,
+   "Total_LTC_HCW_Deaths": 10
+ },
+ {
+   "Report_Data_Extracted": "2021-01-10",
+   "LTC_Homes_with_Active_Outbreak": 252,
+   "LTC_Homes_with_Resolved_Outbreak": 235,
+   "Confirmed_Active_LTC_Resident_Cases": 1502,
+   "Total_LTC_Resident_Deaths": 2980,
+   "Confirmed_Active_LTC_HCW_Cases": 1260,
+   "Total_LTC_HCW_Deaths": 10
+ },
+ {
+   "Report_Data_Extracted": "2021-01-11",
+   "LTC_Homes_with_Active_Outbreak": 249,
+   "LTC_Homes_with_Resolved_Outbreak": 239,
+   "Confirmed_Active_LTC_Resident_Cases": 1553,
+   "Total_LTC_Resident_Deaths": 2995,
+   "Confirmed_Active_LTC_HCW_Cases": 1244,
+   "Total_LTC_HCW_Deaths": 10
+ },
+ {
+   "Report_Data_Extracted": "2021-01-12",
+   "LTC_Homes_with_Active_Outbreak": 249,
+   "LTC_Homes_with_Resolved_Outbreak": 242,
+   "Confirmed_Active_LTC_Resident_Cases": 1542,
+   "Total_LTC_Resident_Deaths": 3029,
+   "Confirmed_Active_LTC_HCW_Cases": 1278,
+   "Total_LTC_HCW_Deaths": 10
+ },
+ {
+   "Report_Data_Extracted": "2021-01-13",
+   "LTC_Homes_with_Active_Outbreak": 244,
+   "LTC_Homes_with_Resolved_Outbreak": 249,
+   "Confirmed_Active_LTC_Resident_Cases": 1603,
+   "Total_LTC_Resident_Deaths": 3063,
+   "Confirmed_Active_LTC_HCW_Cases": 1297,
+   "Total_LTC_HCW_Deaths": 10
+ },
+ {
+   "Report_Data_Extracted": "2021-01-14",
+   "LTC_Homes_with_Active_Outbreak": 243,
+   "LTC_Homes_with_Resolved_Outbreak": 250,
+   "Confirmed_Active_LTC_Resident_Cases": 1650,
+   "Total_LTC_Resident_Deaths": 3085,
+   "Confirmed_Active_LTC_HCW_Cases": 1336,
+   "Total_LTC_HCW_Deaths": 10
+ },
+ {
+   "Report_Data_Extracted": "2021-01-15",
+   "LTC_Homes_with_Active_Outbreak": 246,
+   "LTC_Homes_with_Resolved_Outbreak": 248,
+   "Confirmed_Active_LTC_Resident_Cases": 1632,
+   "Total_LTC_Resident_Deaths": 3112,
+   "Confirmed_Active_LTC_HCW_Cases": 1302,
+   "Total_LTC_HCW_Deaths": 10
+ },
+ {
+   "Report_Data_Extracted": "2021-01-16",
+   "LTC_Homes_with_Active_Outbreak": 246,
+   "LTC_Homes_with_Resolved_Outbreak": 248,
+   "Confirmed_Active_LTC_Resident_Cases": 1622,
+   "Total_LTC_Resident_Deaths": 3123,
+   "Confirmed_Active_LTC_HCW_Cases": 1313,
+   "Total_LTC_HCW_Deaths": 10
+ },
+ {
+   "Report_Data_Extracted": "2021-01-17",
+   "LTC_Homes_with_Active_Outbreak": 248,
+   "LTC_Homes_with_Resolved_Outbreak": 246,
+   "Confirmed_Active_LTC_Resident_Cases": 1615,
+   "Total_LTC_Resident_Deaths": 3150,
+   "Confirmed_Active_LTC_HCW_Cases": 1272,
+   "Total_LTC_HCW_Deaths": 10
+ },
+ {
+   "Report_Data_Extracted": "2021-01-18",
+   "LTC_Homes_with_Active_Outbreak": 254,
+   "LTC_Homes_with_Resolved_Outbreak": 242,
+   "Confirmed_Active_LTC_Resident_Cases": 1488,
+   "Total_LTC_Resident_Deaths": 3179,
+   "Confirmed_Active_LTC_HCW_Cases": 1241,
+   "Total_LTC_HCW_Deaths": 10
+ },
+ {
+   "Report_Data_Extracted": "2021-01-19",
+   "LTC_Homes_with_Active_Outbreak": 251,
+   "LTC_Homes_with_Resolved_Outbreak": 245,
+   "Confirmed_Active_LTC_Resident_Cases": 1497,
+   "Total_LTC_Resident_Deaths": 3239,
+   "Confirmed_Active_LTC_HCW_Cases": 1223,
+   "Total_LTC_HCW_Deaths": 10
+ },
+ {
+   "Report_Data_Extracted": "2021-01-20",
+   "LTC_Homes_with_Active_Outbreak": 251,
+   "LTC_Homes_with_Resolved_Outbreak": 245,
+   "Confirmed_Active_LTC_Resident_Cases": 1441,
+   "Total_LTC_Resident_Deaths": 3256,
+   "Confirmed_Active_LTC_HCW_Cases": 1185,
+   "Total_LTC_HCW_Deaths": 10
+ },
+ {
+   "Report_Data_Extracted": "2021-01-21",
+   "LTC_Homes_with_Active_Outbreak": 244,
+   "LTC_Homes_with_Resolved_Outbreak": 252,
+   "Confirmed_Active_LTC_Resident_Cases": 1346,
+   "Total_LTC_Resident_Deaths": 3298,
+   "Confirmed_Active_LTC_HCW_Cases": 1130,
+   "Total_LTC_HCW_Deaths": 10
+ },
+ {
+   "Report_Data_Extracted": "2021-01-22",
+   "LTC_Homes_with_Active_Outbreak": 252,
+   "LTC_Homes_with_Resolved_Outbreak": 244,
+   "Confirmed_Active_LTC_Resident_Cases": 1298,
+   "Total_LTC_Resident_Deaths": 3322,
+   "Confirmed_Active_LTC_HCW_Cases": 1142,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-01-23",
+   "LTC_Homes_with_Active_Outbreak": 255,
+   "LTC_Homes_with_Resolved_Outbreak": 242,
+   "Confirmed_Active_LTC_Resident_Cases": 1253,
+   "Total_LTC_Resident_Deaths": 3336,
+   "Confirmed_Active_LTC_HCW_Cases": 1196,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-01-24",
+   "LTC_Homes_with_Active_Outbreak": 256,
+   "LTC_Homes_with_Resolved_Outbreak": 241,
+   "Confirmed_Active_LTC_Resident_Cases": 1266,
+   "Total_LTC_Resident_Deaths": 3365,
+   "Confirmed_Active_LTC_HCW_Cases": 1200,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-01-25",
+   "LTC_Homes_with_Active_Outbreak": 246,
+   "LTC_Homes_with_Resolved_Outbreak": 252,
+   "Confirmed_Active_LTC_Resident_Cases": 1164,
+   "Total_LTC_Resident_Deaths": 3389,
+   "Confirmed_Active_LTC_HCW_Cases": 1095,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-01-26",
+   "LTC_Homes_with_Active_Outbreak": 238,
+   "LTC_Homes_with_Resolved_Outbreak": 262,
+   "Confirmed_Active_LTC_Resident_Cases": 1039,
+   "Total_LTC_Resident_Deaths": 3428,
+   "Confirmed_Active_LTC_HCW_Cases": 974,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-01-27",
+   "LTC_Homes_with_Active_Outbreak": 229,
+   "LTC_Homes_with_Resolved_Outbreak": 271,
+   "Confirmed_Active_LTC_Resident_Cases": 1041,
+   "Total_LTC_Resident_Deaths": 3462,
+   "Confirmed_Active_LTC_HCW_Cases": 938,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-01-28",
+   "LTC_Homes_with_Active_Outbreak": 229,
+   "LTC_Homes_with_Resolved_Outbreak": 271,
+   "Confirmed_Active_LTC_Resident_Cases": 956,
+   "Total_LTC_Resident_Deaths": 3491,
+   "Confirmed_Active_LTC_HCW_Cases": 899,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-01-29",
+   "LTC_Homes_with_Active_Outbreak": 227,
+   "LTC_Homes_with_Resolved_Outbreak": 273,
+   "Confirmed_Active_LTC_Resident_Cases": 911,
+   "Total_LTC_Resident_Deaths": 3516,
+   "Confirmed_Active_LTC_HCW_Cases": 883,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-01-30",
+   "LTC_Homes_with_Active_Outbreak": 230,
+   "LTC_Homes_with_Resolved_Outbreak": 270,
+   "Confirmed_Active_LTC_Resident_Cases": 900,
+   "Total_LTC_Resident_Deaths": 3529,
+   "Confirmed_Active_LTC_HCW_Cases": 898,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-01-31",
+   "LTC_Homes_with_Active_Outbreak": 230,
+   "LTC_Homes_with_Resolved_Outbreak": 271,
+   "Confirmed_Active_LTC_Resident_Cases": 931,
+   "Total_LTC_Resident_Deaths": 3543,
+   "Confirmed_Active_LTC_HCW_Cases": 914,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-01",
+   "LTC_Homes_with_Active_Outbreak": 224,
+   "LTC_Homes_with_Resolved_Outbreak": 277,
+   "Confirmed_Active_LTC_Resident_Cases": 855,
+   "Total_LTC_Resident_Deaths": 3578,
+   "Confirmed_Active_LTC_HCW_Cases": 838,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-02",
+   "LTC_Homes_with_Active_Outbreak": 216,
+   "LTC_Homes_with_Resolved_Outbreak": 286,
+   "Confirmed_Active_LTC_Resident_Cases": 763,
+   "Total_LTC_Resident_Deaths": 3601,
+   "Confirmed_Active_LTC_HCW_Cases": 801,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-03",
+   "LTC_Homes_with_Active_Outbreak": 206,
+   "LTC_Homes_with_Resolved_Outbreak": 298,
+   "Confirmed_Active_LTC_Resident_Cases": 701,
+   "Total_LTC_Resident_Deaths": 3627,
+   "Confirmed_Active_LTC_HCW_Cases": 758,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-04",
+   "LTC_Homes_with_Active_Outbreak": 208,
+   "LTC_Homes_with_Resolved_Outbreak": 297,
+   "Confirmed_Active_LTC_Resident_Cases": 591,
+   "Total_LTC_Resident_Deaths": 3640,
+   "Confirmed_Active_LTC_HCW_Cases": 730,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-05",
+   "LTC_Homes_with_Active_Outbreak": 208,
+   "LTC_Homes_with_Resolved_Outbreak": 298,
+   "Confirmed_Active_LTC_Resident_Cases": 523,
+   "Total_LTC_Resident_Deaths": 3654,
+   "Confirmed_Active_LTC_HCW_Cases": 707,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-06",
+   "LTC_Homes_with_Active_Outbreak": 208,
+   "LTC_Homes_with_Resolved_Outbreak": 298,
+   "Confirmed_Active_LTC_Resident_Cases": 521,
+   "Total_LTC_Resident_Deaths": 3659,
+   "Confirmed_Active_LTC_HCW_Cases": 684,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-07",
+   "LTC_Homes_with_Active_Outbreak": 213,
+   "LTC_Homes_with_Resolved_Outbreak": 293,
+   "Confirmed_Active_LTC_Resident_Cases": 494,
+   "Total_LTC_Resident_Deaths": 3669,
+   "Confirmed_Active_LTC_HCW_Cases": 686,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-08",
+   "LTC_Homes_with_Active_Outbreak": 205,
+   "LTC_Homes_with_Resolved_Outbreak": 301,
+   "Confirmed_Active_LTC_Resident_Cases": 459,
+   "Total_LTC_Resident_Deaths": 3668,
+   "Confirmed_Active_LTC_HCW_Cases": 651,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-09",
+   "LTC_Homes_with_Active_Outbreak": 200,
+   "LTC_Homes_with_Resolved_Outbreak": 306,
+   "Confirmed_Active_LTC_Resident_Cases": 394,
+   "Total_LTC_Resident_Deaths": 3683,
+   "Confirmed_Active_LTC_HCW_Cases": 568,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-10",
+   "LTC_Homes_with_Active_Outbreak": 194,
+   "LTC_Homes_with_Resolved_Outbreak": 312,
+   "Confirmed_Active_LTC_Resident_Cases": 369,
+   "Total_LTC_Resident_Deaths": 3694,
+   "Confirmed_Active_LTC_HCW_Cases": 501,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-11",
+   "LTC_Homes_with_Active_Outbreak": 180,
+   "LTC_Homes_with_Resolved_Outbreak": 326,
+   "Confirmed_Active_LTC_Resident_Cases": 339,
+   "Total_LTC_Resident_Deaths": 3706,
+   "Confirmed_Active_LTC_HCW_Cases": 465,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-12",
+   "LTC_Homes_with_Active_Outbreak": 174,
+   "LTC_Homes_with_Resolved_Outbreak": 335,
+   "Confirmed_Active_LTC_Resident_Cases": 294,
+   "Total_LTC_Resident_Deaths": 3711,
+   "Confirmed_Active_LTC_HCW_Cases": 437,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-13",
+   "LTC_Homes_with_Active_Outbreak": 171,
+   "LTC_Homes_with_Resolved_Outbreak": 338,
+   "Confirmed_Active_LTC_Resident_Cases": 274,
+   "Total_LTC_Resident_Deaths": 3714,
+   "Confirmed_Active_LTC_HCW_Cases": 401,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-14",
+   "LTC_Homes_with_Active_Outbreak": 170,
+   "LTC_Homes_with_Resolved_Outbreak": 339,
+   "Confirmed_Active_LTC_Resident_Cases": 270,
+   "Total_LTC_Resident_Deaths": 3714,
+   "Confirmed_Active_LTC_HCW_Cases": 392,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-15",
+   "LTC_Homes_with_Active_Outbreak": 170,
+   "LTC_Homes_with_Resolved_Outbreak": 339,
+   "Confirmed_Active_LTC_Resident_Cases": 269,
+   "Total_LTC_Resident_Deaths": 3717,
+   "Confirmed_Active_LTC_HCW_Cases": 391,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-16",
+   "LTC_Homes_with_Active_Outbreak": 155,
+   "LTC_Homes_with_Resolved_Outbreak": 354,
+   "Confirmed_Active_LTC_Resident_Cases": 210,
+   "Total_LTC_Resident_Deaths": 3728,
+   "Confirmed_Active_LTC_HCW_Cases": 333,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-17",
+   "LTC_Homes_with_Active_Outbreak": 142,
+   "LTC_Homes_with_Resolved_Outbreak": 367,
+   "Confirmed_Active_LTC_Resident_Cases": 191,
+   "Total_LTC_Resident_Deaths": 3730,
+   "Confirmed_Active_LTC_HCW_Cases": 323,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-18",
+   "LTC_Homes_with_Active_Outbreak": 130,
+   "LTC_Homes_with_Resolved_Outbreak": 379,
+   "Confirmed_Active_LTC_Resident_Cases": 164,
+   "Total_LTC_Resident_Deaths": 3730,
+   "Confirmed_Active_LTC_HCW_Cases": 259,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-19",
+   "LTC_Homes_with_Active_Outbreak": 126,
+   "LTC_Homes_with_Resolved_Outbreak": 383,
+   "Confirmed_Active_LTC_Resident_Cases": 126,
+   "Total_LTC_Resident_Deaths": 3733,
+   "Confirmed_Active_LTC_HCW_Cases": 243,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-20",
+   "LTC_Homes_with_Active_Outbreak": 130,
+   "LTC_Homes_with_Resolved_Outbreak": 381,
+   "Confirmed_Active_LTC_Resident_Cases": 126,
+   "Total_LTC_Resident_Deaths": 3734,
+   "Confirmed_Active_LTC_HCW_Cases": 246,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-21",
+   "LTC_Homes_with_Active_Outbreak": 129,
+   "LTC_Homes_with_Resolved_Outbreak": 382,
+   "Confirmed_Active_LTC_Resident_Cases": 126,
+   "Total_LTC_Resident_Deaths": 3734,
+   "Confirmed_Active_LTC_HCW_Cases": 242,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-22",
+   "LTC_Homes_with_Active_Outbreak": 127,
+   "LTC_Homes_with_Resolved_Outbreak": 384,
+   "Confirmed_Active_LTC_Resident_Cases": 125,
+   "Total_LTC_Resident_Deaths": 3736,
+   "Confirmed_Active_LTC_HCW_Cases": 228,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-23",
+   "LTC_Homes_with_Active_Outbreak": 117,
+   "LTC_Homes_with_Resolved_Outbreak": 394,
+   "Confirmed_Active_LTC_Resident_Cases": 109,
+   "Total_LTC_Resident_Deaths": 3739,
+   "Confirmed_Active_LTC_HCW_Cases": 218,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-24",
+   "LTC_Homes_with_Active_Outbreak": 111,
+   "LTC_Homes_with_Resolved_Outbreak": 401,
+   "Confirmed_Active_LTC_Resident_Cases": 105,
+   "Total_LTC_Resident_Deaths": 3742,
+   "Confirmed_Active_LTC_HCW_Cases": 206,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-25",
+   "LTC_Homes_with_Active_Outbreak": 111,
+   "LTC_Homes_with_Resolved_Outbreak": 401,
+   "Confirmed_Active_LTC_Resident_Cases": 101,
+   "Total_LTC_Resident_Deaths": 3743,
+   "Confirmed_Active_LTC_HCW_Cases": 202,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-26",
+   "LTC_Homes_with_Active_Outbreak": 101,
+   "LTC_Homes_with_Resolved_Outbreak": 411,
+   "Confirmed_Active_LTC_Resident_Cases": 88,
+   "Total_LTC_Resident_Deaths": 3743,
+   "Confirmed_Active_LTC_HCW_Cases": 175,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-27",
+   "LTC_Homes_with_Active_Outbreak": 106,
+   "LTC_Homes_with_Resolved_Outbreak": 406,
+   "Confirmed_Active_LTC_Resident_Cases": 80,
+   "Total_LTC_Resident_Deaths": 3744,
+   "Confirmed_Active_LTC_HCW_Cases": 179,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-02-28",
+   "LTC_Homes_with_Active_Outbreak": 106,
+   "LTC_Homes_with_Resolved_Outbreak": 406,
+   "Confirmed_Active_LTC_Resident_Cases": 80,
+   "Total_LTC_Resident_Deaths": 3744,
+   "Confirmed_Active_LTC_HCW_Cases": 179,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-01",
+   "LTC_Homes_with_Active_Outbreak": 97,
+   "LTC_Homes_with_Resolved_Outbreak": 415,
+   "Confirmed_Active_LTC_Resident_Cases": 71,
+   "Total_LTC_Resident_Deaths": 3746,
+   "Confirmed_Active_LTC_HCW_Cases": 162,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-02",
+   "LTC_Homes_with_Active_Outbreak": 98,
+   "LTC_Homes_with_Resolved_Outbreak": 415,
+   "Confirmed_Active_LTC_Resident_Cases": 65,
+   "Total_LTC_Resident_Deaths": 3745,
+   "Confirmed_Active_LTC_HCW_Cases": 163,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-03",
+   "LTC_Homes_with_Active_Outbreak": 94,
+   "LTC_Homes_with_Resolved_Outbreak": 419,
+   "Confirmed_Active_LTC_Resident_Cases": 62,
+   "Total_LTC_Resident_Deaths": 3745,
+   "Confirmed_Active_LTC_HCW_Cases": 163,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-04",
+   "LTC_Homes_with_Active_Outbreak": 86,
+   "LTC_Homes_with_Resolved_Outbreak": 427,
+   "Confirmed_Active_LTC_Resident_Cases": 60,
+   "Total_LTC_Resident_Deaths": 3748,
+   "Confirmed_Active_LTC_HCW_Cases": 154,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-05",
+   "LTC_Homes_with_Active_Outbreak": 83,
+   "LTC_Homes_with_Resolved_Outbreak": 430,
+   "Confirmed_Active_LTC_Resident_Cases": 55,
+   "Total_LTC_Resident_Deaths": 3748,
+   "Confirmed_Active_LTC_HCW_Cases": 141,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-06",
+   "LTC_Homes_with_Active_Outbreak": 84,
+   "LTC_Homes_with_Resolved_Outbreak": 429,
+   "Confirmed_Active_LTC_Resident_Cases": 55,
+   "Total_LTC_Resident_Deaths": 3748,
+   "Confirmed_Active_LTC_HCW_Cases": 139,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-07",
+   "LTC_Homes_with_Active_Outbreak": 84,
+   "LTC_Homes_with_Resolved_Outbreak": 429,
+   "Confirmed_Active_LTC_Resident_Cases": 55,
+   "Total_LTC_Resident_Deaths": 3748,
+   "Confirmed_Active_LTC_HCW_Cases": 139,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-08",
+   "LTC_Homes_with_Active_Outbreak": 85,
+   "LTC_Homes_with_Resolved_Outbreak": 428,
+   "Confirmed_Active_LTC_Resident_Cases": 56,
+   "Total_LTC_Resident_Deaths": 3748,
+   "Confirmed_Active_LTC_HCW_Cases": 136,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-09",
+   "LTC_Homes_with_Active_Outbreak": 84,
+   "LTC_Homes_with_Resolved_Outbreak": 430,
+   "Confirmed_Active_LTC_Resident_Cases": 55,
+   "Total_LTC_Resident_Deaths": 3748,
+   "Confirmed_Active_LTC_HCW_Cases": 134,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-10",
+   "LTC_Homes_with_Active_Outbreak": 83,
+   "LTC_Homes_with_Resolved_Outbreak": 431,
+   "Confirmed_Active_LTC_Resident_Cases": 51,
+   "Total_LTC_Resident_Deaths": 3749,
+   "Confirmed_Active_LTC_HCW_Cases": 137,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-11",
+   "LTC_Homes_with_Active_Outbreak": 80,
+   "LTC_Homes_with_Resolved_Outbreak": 434,
+   "Confirmed_Active_LTC_Resident_Cases": 45,
+   "Total_LTC_Resident_Deaths": 3750,
+   "Confirmed_Active_LTC_HCW_Cases": 138,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-12",
+   "LTC_Homes_with_Active_Outbreak": 84,
+   "LTC_Homes_with_Resolved_Outbreak": 430,
+   "Confirmed_Active_LTC_Resident_Cases": 45,
+   "Total_LTC_Resident_Deaths": 3750,
+   "Confirmed_Active_LTC_HCW_Cases": 139,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-14",
+   "LTC_Homes_with_Active_Outbreak": 87,
+   "LTC_Homes_with_Resolved_Outbreak": 427,
+   "Confirmed_Active_LTC_Resident_Cases": 42,
+   "Total_LTC_Resident_Deaths": 3750,
+   "Confirmed_Active_LTC_HCW_Cases": 146,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-15",
+   "LTC_Homes_with_Active_Outbreak": 80,
+   "LTC_Homes_with_Resolved_Outbreak": 434,
+   "Confirmed_Active_LTC_Resident_Cases": 43,
+   "Total_LTC_Resident_Deaths": 3752,
+   "Confirmed_Active_LTC_HCW_Cases": 138,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-16",
+   "LTC_Homes_with_Active_Outbreak": 72,
+   "LTC_Homes_with_Resolved_Outbreak": 442,
+   "Confirmed_Active_LTC_Resident_Cases": 30,
+   "Total_LTC_Resident_Deaths": 3752,
+   "Confirmed_Active_LTC_HCW_Cases": 123,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-17",
+   "LTC_Homes_with_Active_Outbreak": 59,
+   "LTC_Homes_with_Resolved_Outbreak": 455,
+   "Confirmed_Active_LTC_Resident_Cases": 24,
+   "Total_LTC_Resident_Deaths": 3752,
+   "Confirmed_Active_LTC_HCW_Cases": 108,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-18",
+   "LTC_Homes_with_Active_Outbreak": 52,
+   "LTC_Homes_with_Resolved_Outbreak": 462,
+   "Confirmed_Active_LTC_Resident_Cases": 11,
+   "Total_LTC_Resident_Deaths": 3753,
+   "Confirmed_Active_LTC_HCW_Cases": 98,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-19",
+   "LTC_Homes_with_Active_Outbreak": 52,
+   "LTC_Homes_with_Resolved_Outbreak": 462,
+   "Confirmed_Active_LTC_Resident_Cases": 11,
+   "Total_LTC_Resident_Deaths": 3753,
+   "Confirmed_Active_LTC_HCW_Cases": 101,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-21",
+   "LTC_Homes_with_Active_Outbreak": 56,
+   "LTC_Homes_with_Resolved_Outbreak": 459,
+   "Confirmed_Active_LTC_Resident_Cases": 12,
+   "Total_LTC_Resident_Deaths": 3753,
+   "Confirmed_Active_LTC_HCW_Cases": 110,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-22",
+   "LTC_Homes_with_Active_Outbreak": 52,
+   "LTC_Homes_with_Resolved_Outbreak": 463,
+   "Confirmed_Active_LTC_Resident_Cases": 10,
+   "Total_LTC_Resident_Deaths": 3753,
+   "Confirmed_Active_LTC_HCW_Cases": 99,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-23",
+   "LTC_Homes_with_Active_Outbreak": 52,
+   "LTC_Homes_with_Resolved_Outbreak": 463,
+   "Confirmed_Active_LTC_Resident_Cases": 11,
+   "Total_LTC_Resident_Deaths": 3753,
+   "Confirmed_Active_LTC_HCW_Cases": 104,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-24",
+   "LTC_Homes_with_Active_Outbreak": 46,
+   "LTC_Homes_with_Resolved_Outbreak": 469,
+   "Confirmed_Active_LTC_Resident_Cases": 8,
+   "Total_LTC_Resident_Deaths": 3753,
+   "Confirmed_Active_LTC_HCW_Cases": 95,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-25",
+   "LTC_Homes_with_Active_Outbreak": 45,
+   "LTC_Homes_with_Resolved_Outbreak": 470,
+   "Confirmed_Active_LTC_Resident_Cases": 8,
+   "Total_LTC_Resident_Deaths": 3753,
+   "Confirmed_Active_LTC_HCW_Cases": 101,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-26",
+   "LTC_Homes_with_Active_Outbreak": 50,
+   "LTC_Homes_with_Resolved_Outbreak": 466,
+   "Confirmed_Active_LTC_Resident_Cases": 9,
+   "Total_LTC_Resident_Deaths": 3753,
+   "Confirmed_Active_LTC_HCW_Cases": 115,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-28",
+   "LTC_Homes_with_Active_Outbreak": 54,
+   "LTC_Homes_with_Resolved_Outbreak": 463,
+   "Confirmed_Active_LTC_Resident_Cases": 9,
+   "Total_LTC_Resident_Deaths": 3753,
+   "Confirmed_Active_LTC_HCW_Cases": 119,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-29",
+   "LTC_Homes_with_Active_Outbreak": 50,
+   "LTC_Homes_with_Resolved_Outbreak": 467,
+   "Confirmed_Active_LTC_Resident_Cases": 9,
+   "Total_LTC_Resident_Deaths": 3753,
+   "Confirmed_Active_LTC_HCW_Cases": 113,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-30",
+   "LTC_Homes_with_Active_Outbreak": 43,
+   "LTC_Homes_with_Resolved_Outbreak": 475,
+   "Confirmed_Active_LTC_Resident_Cases": 10,
+   "Total_LTC_Resident_Deaths": 3753,
+   "Confirmed_Active_LTC_HCW_Cases": 101,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-03-31",
+   "LTC_Homes_with_Active_Outbreak": 44,
+   "LTC_Homes_with_Resolved_Outbreak": 474,
+   "Confirmed_Active_LTC_Resident_Cases": 9,
+   "Total_LTC_Resident_Deaths": 3753,
+   "Confirmed_Active_LTC_HCW_Cases": 103,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-02",
+   "LTC_Homes_with_Active_Outbreak": 46,
+   "LTC_Homes_with_Resolved_Outbreak": 472,
+   "Confirmed_Active_LTC_Resident_Cases": 7,
+   "Total_LTC_Resident_Deaths": 3754,
+   "Confirmed_Active_LTC_HCW_Cases": 106,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-04",
+   "LTC_Homes_with_Active_Outbreak": 50,
+   "LTC_Homes_with_Resolved_Outbreak": 468,
+   "Confirmed_Active_LTC_Resident_Cases": 6,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 116,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-05",
+   "LTC_Homes_with_Active_Outbreak": 52,
+   "LTC_Homes_with_Resolved_Outbreak": 466,
+   "Confirmed_Active_LTC_Resident_Cases": 8,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 121,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-06",
+   "LTC_Homes_with_Active_Outbreak": 52,
+   "LTC_Homes_with_Resolved_Outbreak": 467,
+   "Confirmed_Active_LTC_Resident_Cases": 9,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 118,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-07",
+   "LTC_Homes_with_Active_Outbreak": 49,
+   "LTC_Homes_with_Resolved_Outbreak": 470,
+   "Confirmed_Active_LTC_Resident_Cases": 10,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 119,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-08",
+   "LTC_Homes_with_Active_Outbreak": 46,
+   "LTC_Homes_with_Resolved_Outbreak": 473,
+   "Confirmed_Active_LTC_Resident_Cases": 15,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 118,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-09",
+   "LTC_Homes_with_Active_Outbreak": 41,
+   "LTC_Homes_with_Resolved_Outbreak": 478,
+   "Confirmed_Active_LTC_Resident_Cases": 23,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 117,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-11",
+   "LTC_Homes_with_Active_Outbreak": 41,
+   "LTC_Homes_with_Resolved_Outbreak": 478,
+   "Confirmed_Active_LTC_Resident_Cases": 24,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 120,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-12",
+   "LTC_Homes_with_Active_Outbreak": 36,
+   "LTC_Homes_with_Resolved_Outbreak": 483,
+   "Confirmed_Active_LTC_Resident_Cases": 21,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 115,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-13",
+   "LTC_Homes_with_Active_Outbreak": 41,
+   "LTC_Homes_with_Resolved_Outbreak": 478,
+   "Confirmed_Active_LTC_Resident_Cases": 19,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 131,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-14",
+   "LTC_Homes_with_Active_Outbreak": 40,
+   "LTC_Homes_with_Resolved_Outbreak": 479,
+   "Confirmed_Active_LTC_Resident_Cases": 22,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 121,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-15",
+   "LTC_Homes_with_Active_Outbreak": 38,
+   "LTC_Homes_with_Resolved_Outbreak": 481,
+   "Confirmed_Active_LTC_Resident_Cases": 26,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 119,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-16",
+   "LTC_Homes_with_Active_Outbreak": 39,
+   "LTC_Homes_with_Resolved_Outbreak": 480,
+   "Confirmed_Active_LTC_Resident_Cases": 32,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 124,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-18",
+   "LTC_Homes_with_Active_Outbreak": 40,
+   "LTC_Homes_with_Resolved_Outbreak": 479,
+   "Confirmed_Active_LTC_Resident_Cases": 36,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 127,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-19",
+   "LTC_Homes_with_Active_Outbreak": 36,
+   "LTC_Homes_with_Resolved_Outbreak": 483,
+   "Confirmed_Active_LTC_Resident_Cases": 38,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 128,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-20",
+   "LTC_Homes_with_Active_Outbreak": 34,
+   "LTC_Homes_with_Resolved_Outbreak": 485,
+   "Confirmed_Active_LTC_Resident_Cases": 37,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 122,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-21",
+   "LTC_Homes_with_Active_Outbreak": 37,
+   "LTC_Homes_with_Resolved_Outbreak": 482,
+   "Confirmed_Active_LTC_Resident_Cases": 42,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 135,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-22",
+   "LTC_Homes_with_Active_Outbreak": 30,
+   "LTC_Homes_with_Resolved_Outbreak": 489,
+   "Confirmed_Active_LTC_Resident_Cases": 42,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 120,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-23",
+   "LTC_Homes_with_Active_Outbreak": 34,
+   "LTC_Homes_with_Resolved_Outbreak": 485,
+   "Confirmed_Active_LTC_Resident_Cases": 49,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 135,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-25",
+   "LTC_Homes_with_Active_Outbreak": 35,
+   "LTC_Homes_with_Resolved_Outbreak": 484,
+   "Confirmed_Active_LTC_Resident_Cases": 48,
+   "Total_LTC_Resident_Deaths": 3755,
+   "Confirmed_Active_LTC_HCW_Cases": 133,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-26",
+   "LTC_Homes_with_Active_Outbreak": 36,
+   "LTC_Homes_with_Resolved_Outbreak": 483,
+   "Confirmed_Active_LTC_Resident_Cases": 44,
+   "Total_LTC_Resident_Deaths": 3756,
+   "Confirmed_Active_LTC_HCW_Cases": 131,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-27",
+   "LTC_Homes_with_Active_Outbreak": 39,
+   "LTC_Homes_with_Resolved_Outbreak": 480,
+   "Confirmed_Active_LTC_Resident_Cases": 49,
+   "Total_LTC_Resident_Deaths": 3756,
+   "Confirmed_Active_LTC_HCW_Cases": 133,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-28",
+   "LTC_Homes_with_Active_Outbreak": 45,
+   "LTC_Homes_with_Resolved_Outbreak": 474,
+   "Confirmed_Active_LTC_Resident_Cases": 41,
+   "Total_LTC_Resident_Deaths": 3757,
+   "Confirmed_Active_LTC_HCW_Cases": 139,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-29",
+   "LTC_Homes_with_Active_Outbreak": 49,
+   "LTC_Homes_with_Resolved_Outbreak": 472,
+   "Confirmed_Active_LTC_Resident_Cases": 52,
+   "Total_LTC_Resident_Deaths": 3757,
+   "Confirmed_Active_LTC_HCW_Cases": 148,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-04-30",
+   "LTC_Homes_with_Active_Outbreak": 48,
+   "LTC_Homes_with_Resolved_Outbreak": 473,
+   "Confirmed_Active_LTC_Resident_Cases": 54,
+   "Total_LTC_Resident_Deaths": 3758,
+   "Confirmed_Active_LTC_HCW_Cases": 163,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-05-02",
+   "LTC_Homes_with_Active_Outbreak": 50,
+   "LTC_Homes_with_Resolved_Outbreak": 471,
+   "Confirmed_Active_LTC_Resident_Cases": 56,
+   "Total_LTC_Resident_Deaths": 3760,
+   "Confirmed_Active_LTC_HCW_Cases": 170,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-05-03",
+   "LTC_Homes_with_Active_Outbreak": 50,
+   "LTC_Homes_with_Resolved_Outbreak": 471,
+   "Confirmed_Active_LTC_Resident_Cases": 60,
+   "Total_LTC_Resident_Deaths": 3760,
+   "Confirmed_Active_LTC_HCW_Cases": 175,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-05-04",
+   "LTC_Homes_with_Active_Outbreak": 52,
+   "LTC_Homes_with_Resolved_Outbreak": 469,
+   "Confirmed_Active_LTC_Resident_Cases": 60,
+   "Total_LTC_Resident_Deaths": 3761,
+   "Confirmed_Active_LTC_HCW_Cases": 180,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-05-05",
+   "LTC_Homes_with_Active_Outbreak": 46,
+   "LTC_Homes_with_Resolved_Outbreak": 475,
+   "Confirmed_Active_LTC_Resident_Cases": 62,
+   "Total_LTC_Resident_Deaths": 3762,
+   "Confirmed_Active_LTC_HCW_Cases": 163,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-05-06",
+   "LTC_Homes_with_Active_Outbreak": 50,
+   "LTC_Homes_with_Resolved_Outbreak": 471,
+   "Confirmed_Active_LTC_Resident_Cases": 72,
+   "Total_LTC_Resident_Deaths": 3763,
+   "Confirmed_Active_LTC_HCW_Cases": 168,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-05-07",
+   "LTC_Homes_with_Active_Outbreak": 46,
+   "LTC_Homes_with_Resolved_Outbreak": 475,
+   "Confirmed_Active_LTC_Resident_Cases": 70,
+   "Total_LTC_Resident_Deaths": 3762,
+   "Confirmed_Active_LTC_HCW_Cases": 161,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-05-09",
+   "LTC_Homes_with_Active_Outbreak": 45,
+   "LTC_Homes_with_Resolved_Outbreak": 476,
+   "Confirmed_Active_LTC_Resident_Cases": 67,
+   "Total_LTC_Resident_Deaths": 3762,
+   "Confirmed_Active_LTC_HCW_Cases": 155,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-05-10",
+   "LTC_Homes_with_Active_Outbreak": 46,
+   "LTC_Homes_with_Resolved_Outbreak": 476,
+   "Confirmed_Active_LTC_Resident_Cases": 69,
+   "Total_LTC_Resident_Deaths": 3764,
+   "Confirmed_Active_LTC_HCW_Cases": 161,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-05-11",
+   "LTC_Homes_with_Active_Outbreak": 43,
+   "LTC_Homes_with_Resolved_Outbreak": 479,
+   "Confirmed_Active_LTC_Resident_Cases": 65,
+   "Total_LTC_Resident_Deaths": 3764,
+   "Confirmed_Active_LTC_HCW_Cases": 157,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-05-12",
+   "LTC_Homes_with_Active_Outbreak": 41,
+   "LTC_Homes_with_Resolved_Outbreak": 481,
+   "Confirmed_Active_LTC_Resident_Cases": 66,
+   "Total_LTC_Resident_Deaths": 3764,
+   "Confirmed_Active_LTC_HCW_Cases": 149,
+   "Total_LTC_HCW_Deaths": 11
+ },
+ {
+   "Report_Data_Extracted": "2021-05-13",
+   "LTC_Homes_with_Active_Outbreak": 36,
+   "LTC_Homes_with_Resolved_Outbreak": 486,
+   "Confirmed_Active_LTC_Resident_Cases": 57,
+   "Total_LTC_Resident_Deaths": 3765,
+   "Confirmed_Active_LTC_HCW_Cases": 120,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-05-14",
+   "LTC_Homes_with_Active_Outbreak": 36,
+   "LTC_Homes_with_Resolved_Outbreak": 486,
+   "Confirmed_Active_LTC_Resident_Cases": 56,
+   "Total_LTC_Resident_Deaths": 3765,
+   "Confirmed_Active_LTC_HCW_Cases": 118,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-05-16",
+   "LTC_Homes_with_Active_Outbreak": 34,
+   "LTC_Homes_with_Resolved_Outbreak": 488,
+   "Confirmed_Active_LTC_Resident_Cases": 47,
+   "Total_LTC_Resident_Deaths": 3765,
+   "Confirmed_Active_LTC_HCW_Cases": 110,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-05-17",
+   "LTC_Homes_with_Active_Outbreak": 35,
+   "LTC_Homes_with_Resolved_Outbreak": 487,
+   "Confirmed_Active_LTC_Resident_Cases": 39,
+   "Total_LTC_Resident_Deaths": 3766,
+   "Confirmed_Active_LTC_HCW_Cases": 98,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-05-18",
+   "LTC_Homes_with_Active_Outbreak": 35,
+   "LTC_Homes_with_Resolved_Outbreak": 487,
+   "Confirmed_Active_LTC_Resident_Cases": 44,
+   "Total_LTC_Resident_Deaths": 3766,
+   "Confirmed_Active_LTC_HCW_Cases": 99,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-05-19",
+   "LTC_Homes_with_Active_Outbreak": 37,
+   "LTC_Homes_with_Resolved_Outbreak": 485,
+   "Confirmed_Active_LTC_Resident_Cases": 52,
+   "Total_LTC_Resident_Deaths": 3767,
+   "Confirmed_Active_LTC_HCW_Cases": 101,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-05-20",
+   "LTC_Homes_with_Active_Outbreak": 34,
+   "LTC_Homes_with_Resolved_Outbreak": 488,
+   "Confirmed_Active_LTC_Resident_Cases": 53,
+   "Total_LTC_Resident_Deaths": 3768,
+   "Confirmed_Active_LTC_HCW_Cases": 101,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-05-21",
+   "LTC_Homes_with_Active_Outbreak": 34,
+   "LTC_Homes_with_Resolved_Outbreak": 489,
+   "Confirmed_Active_LTC_Resident_Cases": 48,
+   "Total_LTC_Resident_Deaths": 3770,
+   "Confirmed_Active_LTC_HCW_Cases": 97,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-05-23",
+   "LTC_Homes_with_Active_Outbreak": 35,
+   "LTC_Homes_with_Resolved_Outbreak": 488,
+   "Confirmed_Active_LTC_Resident_Cases": 52,
+   "Total_LTC_Resident_Deaths": 3770,
+   "Confirmed_Active_LTC_HCW_Cases": 102,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-05-24",
+   "LTC_Homes_with_Active_Outbreak": 35,
+   "LTC_Homes_with_Resolved_Outbreak": 488,
+   "Confirmed_Active_LTC_Resident_Cases": 51,
+   "Total_LTC_Resident_Deaths": 3771,
+   "Confirmed_Active_LTC_HCW_Cases": 102,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-05-25",
+   "LTC_Homes_with_Active_Outbreak": 33,
+   "LTC_Homes_with_Resolved_Outbreak": 490,
+   "Confirmed_Active_LTC_Resident_Cases": 49,
+   "Total_LTC_Resident_Deaths": 3771,
+   "Confirmed_Active_LTC_HCW_Cases": 95,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-05-26",
+   "LTC_Homes_with_Active_Outbreak": 37,
+   "LTC_Homes_with_Resolved_Outbreak": 486,
+   "Confirmed_Active_LTC_Resident_Cases": 61,
+   "Total_LTC_Resident_Deaths": 3773,
+   "Confirmed_Active_LTC_HCW_Cases": 119,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-05-27",
+   "LTC_Homes_with_Active_Outbreak": 35,
+   "LTC_Homes_with_Resolved_Outbreak": 488,
+   "Confirmed_Active_LTC_Resident_Cases": 61,
+   "Total_LTC_Resident_Deaths": 3772,
+   "Confirmed_Active_LTC_HCW_Cases": 116,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-05-28",
+   "LTC_Homes_with_Active_Outbreak": 29,
+   "LTC_Homes_with_Resolved_Outbreak": 494,
+   "Confirmed_Active_LTC_Resident_Cases": 61,
+   "Total_LTC_Resident_Deaths": 3772,
+   "Confirmed_Active_LTC_HCW_Cases": 107,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-05-30",
+   "LTC_Homes_with_Active_Outbreak": 29,
+   "LTC_Homes_with_Resolved_Outbreak": 494,
+   "Confirmed_Active_LTC_Resident_Cases": 57,
+   "Total_LTC_Resident_Deaths": 3772,
+   "Confirmed_Active_LTC_HCW_Cases": 105,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-05-31",
+   "LTC_Homes_with_Active_Outbreak": 29,
+   "LTC_Homes_with_Resolved_Outbreak": 494,
+   "Confirmed_Active_LTC_Resident_Cases": 51,
+   "Total_LTC_Resident_Deaths": 3773,
+   "Confirmed_Active_LTC_HCW_Cases": 96,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-01",
+   "LTC_Homes_with_Active_Outbreak": 28,
+   "LTC_Homes_with_Resolved_Outbreak": 495,
+   "Confirmed_Active_LTC_Resident_Cases": 45,
+   "Total_LTC_Resident_Deaths": 3773,
+   "Confirmed_Active_LTC_HCW_Cases": 92,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-02",
+   "LTC_Homes_with_Active_Outbreak": 25,
+   "LTC_Homes_with_Resolved_Outbreak": 498,
+   "Confirmed_Active_LTC_Resident_Cases": 43,
+   "Total_LTC_Resident_Deaths": 3774,
+   "Confirmed_Active_LTC_HCW_Cases": 74,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-03",
+   "LTC_Homes_with_Active_Outbreak": 26,
+   "LTC_Homes_with_Resolved_Outbreak": 497,
+   "Confirmed_Active_LTC_Resident_Cases": 39,
+   "Total_LTC_Resident_Deaths": 3776,
+   "Confirmed_Active_LTC_HCW_Cases": 77,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-04",
+   "LTC_Homes_with_Active_Outbreak": 26,
+   "LTC_Homes_with_Resolved_Outbreak": 497,
+   "Confirmed_Active_LTC_Resident_Cases": 40,
+   "Total_LTC_Resident_Deaths": 3777,
+   "Confirmed_Active_LTC_HCW_Cases": 69,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-06",
+   "LTC_Homes_with_Active_Outbreak": 27,
+   "LTC_Homes_with_Resolved_Outbreak": 496,
+   "Confirmed_Active_LTC_Resident_Cases": 41,
+   "Total_LTC_Resident_Deaths": 3777,
+   "Confirmed_Active_LTC_HCW_Cases": 71,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-07",
+   "LTC_Homes_with_Active_Outbreak": 20,
+   "LTC_Homes_with_Resolved_Outbreak": 503,
+   "Confirmed_Active_LTC_Resident_Cases": 40,
+   "Total_LTC_Resident_Deaths": 3777,
+   "Confirmed_Active_LTC_HCW_Cases": 45,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-08",
+   "LTC_Homes_with_Active_Outbreak": 19,
+   "LTC_Homes_with_Resolved_Outbreak": 504,
+   "Confirmed_Active_LTC_Resident_Cases": 35,
+   "Total_LTC_Resident_Deaths": 3780,
+   "Confirmed_Active_LTC_HCW_Cases": 40,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-09",
+   "LTC_Homes_with_Active_Outbreak": 17,
+   "LTC_Homes_with_Resolved_Outbreak": 506,
+   "Confirmed_Active_LTC_Resident_Cases": 35,
+   "Total_LTC_Resident_Deaths": 3780,
+   "Confirmed_Active_LTC_HCW_Cases": 38,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-10",
+   "LTC_Homes_with_Active_Outbreak": 16,
+   "LTC_Homes_with_Resolved_Outbreak": 507,
+   "Confirmed_Active_LTC_Resident_Cases": 19,
+   "Total_LTC_Resident_Deaths": 3781,
+   "Confirmed_Active_LTC_HCW_Cases": 24,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-11",
+   "LTC_Homes_with_Active_Outbreak": 14,
+   "LTC_Homes_with_Resolved_Outbreak": 509,
+   "Confirmed_Active_LTC_Resident_Cases": 18,
+   "Total_LTC_Resident_Deaths": 3781,
+   "Confirmed_Active_LTC_HCW_Cases": 23,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-13",
+   "LTC_Homes_with_Active_Outbreak": 15,
+   "LTC_Homes_with_Resolved_Outbreak": 508,
+   "Confirmed_Active_LTC_Resident_Cases": 21,
+   "Total_LTC_Resident_Deaths": 3781,
+   "Confirmed_Active_LTC_HCW_Cases": 24,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-14",
+   "LTC_Homes_with_Active_Outbreak": 14,
+   "LTC_Homes_with_Resolved_Outbreak": 509,
+   "Confirmed_Active_LTC_Resident_Cases": 22,
+   "Total_LTC_Resident_Deaths": 3781,
+   "Confirmed_Active_LTC_HCW_Cases": 25,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-15",
+   "LTC_Homes_with_Active_Outbreak": 9,
+   "LTC_Homes_with_Resolved_Outbreak": 514,
+   "Confirmed_Active_LTC_Resident_Cases": 22,
+   "Total_LTC_Resident_Deaths": 3781,
+   "Confirmed_Active_LTC_HCW_Cases": 17,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-16",
+   "LTC_Homes_with_Active_Outbreak": 10,
+   "LTC_Homes_with_Resolved_Outbreak": 513,
+   "Confirmed_Active_LTC_Resident_Cases": 21,
+   "Total_LTC_Resident_Deaths": 3781,
+   "Confirmed_Active_LTC_HCW_Cases": 20,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-17",
+   "LTC_Homes_with_Active_Outbreak": 9,
+   "LTC_Homes_with_Resolved_Outbreak": 514,
+   "Confirmed_Active_LTC_Resident_Cases": 23,
+   "Total_LTC_Resident_Deaths": 3781,
+   "Confirmed_Active_LTC_HCW_Cases": 20,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-18",
+   "LTC_Homes_with_Active_Outbreak": 9,
+   "LTC_Homes_with_Resolved_Outbreak": 514,
+   "Confirmed_Active_LTC_Resident_Cases": 23,
+   "Total_LTC_Resident_Deaths": 3782,
+   "Confirmed_Active_LTC_HCW_Cases": 19,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-20",
+   "LTC_Homes_with_Active_Outbreak": 9,
+   "LTC_Homes_with_Resolved_Outbreak": 514,
+   "Confirmed_Active_LTC_Resident_Cases": 18,
+   "Total_LTC_Resident_Deaths": 3782,
+   "Confirmed_Active_LTC_HCW_Cases": 15,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-21",
+   "LTC_Homes_with_Active_Outbreak": 9,
+   "LTC_Homes_with_Resolved_Outbreak": 514,
+   "Confirmed_Active_LTC_Resident_Cases": 19,
+   "Total_LTC_Resident_Deaths": 3782,
+   "Confirmed_Active_LTC_HCW_Cases": 16,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-22",
+   "LTC_Homes_with_Active_Outbreak": 9,
+   "LTC_Homes_with_Resolved_Outbreak": 514,
+   "Confirmed_Active_LTC_Resident_Cases": 16,
+   "Total_LTC_Resident_Deaths": 3782,
+   "Confirmed_Active_LTC_HCW_Cases": 14,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-23",
+   "LTC_Homes_with_Active_Outbreak": 8,
+   "LTC_Homes_with_Resolved_Outbreak": 515,
+   "Confirmed_Active_LTC_Resident_Cases": 13,
+   "Total_LTC_Resident_Deaths": 3782,
+   "Confirmed_Active_LTC_HCW_Cases": 11,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-24",
+   "LTC_Homes_with_Active_Outbreak": 8,
+   "LTC_Homes_with_Resolved_Outbreak": 515,
+   "Confirmed_Active_LTC_Resident_Cases": 11,
+   "Total_LTC_Resident_Deaths": 3782,
+   "Confirmed_Active_LTC_HCW_Cases": 10,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-25",
+   "LTC_Homes_with_Active_Outbreak": 6,
+   "LTC_Homes_with_Resolved_Outbreak": 517,
+   "Confirmed_Active_LTC_Resident_Cases": 8,
+   "Total_LTC_Resident_Deaths": 3782,
+   "Confirmed_Active_LTC_HCW_Cases": 9,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-27",
+   "LTC_Homes_with_Active_Outbreak": 6,
+   "LTC_Homes_with_Resolved_Outbreak": 517,
+   "Confirmed_Active_LTC_Resident_Cases": 8,
+   "Total_LTC_Resident_Deaths": 3782,
+   "Confirmed_Active_LTC_HCW_Cases": 9,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-28",
+   "LTC_Homes_with_Active_Outbreak": 5,
+   "LTC_Homes_with_Resolved_Outbreak": 518,
+   "Confirmed_Active_LTC_Resident_Cases": 8,
+   "Total_LTC_Resident_Deaths": 3782,
+   "Confirmed_Active_LTC_HCW_Cases": 5,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-29",
+   "LTC_Homes_with_Active_Outbreak": 3,
+   "LTC_Homes_with_Resolved_Outbreak": 520,
+   "Confirmed_Active_LTC_Resident_Cases": 9,
+   "Total_LTC_Resident_Deaths": 3782,
+   "Confirmed_Active_LTC_HCW_Cases": 4,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-06-30",
+   "LTC_Homes_with_Active_Outbreak": 3,
+   "LTC_Homes_with_Resolved_Outbreak": 520,
+   "Confirmed_Active_LTC_Resident_Cases": 9,
+   "Total_LTC_Resident_Deaths": 3782,
+   "Confirmed_Active_LTC_HCW_Cases": 4,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-02",
+   "LTC_Homes_with_Active_Outbreak": 3,
+   "LTC_Homes_with_Resolved_Outbreak": 520,
+   "Confirmed_Active_LTC_Resident_Cases": 21,
+   "Total_LTC_Resident_Deaths": 3782,
+   "Confirmed_Active_LTC_HCW_Cases": 5,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-04",
+   "LTC_Homes_with_Active_Outbreak": 3,
+   "LTC_Homes_with_Resolved_Outbreak": 520,
+   "Confirmed_Active_LTC_Resident_Cases": 22,
+   "Total_LTC_Resident_Deaths": 3783,
+   "Confirmed_Active_LTC_HCW_Cases": 6,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-05",
+   "LTC_Homes_with_Active_Outbreak": 3,
+   "LTC_Homes_with_Resolved_Outbreak": 520,
+   "Confirmed_Active_LTC_Resident_Cases": 23,
+   "Total_LTC_Resident_Deaths": 3783,
+   "Confirmed_Active_LTC_HCW_Cases": 6,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-06",
+   "LTC_Homes_with_Active_Outbreak": 3,
+   "LTC_Homes_with_Resolved_Outbreak": 520,
+   "Confirmed_Active_LTC_Resident_Cases": 23,
+   "Total_LTC_Resident_Deaths": 3783,
+   "Confirmed_Active_LTC_HCW_Cases": 9,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-07",
+   "LTC_Homes_with_Active_Outbreak": 4,
+   "LTC_Homes_with_Resolved_Outbreak": 519,
+   "Confirmed_Active_LTC_Resident_Cases": 20,
+   "Total_LTC_Resident_Deaths": 3785,
+   "Confirmed_Active_LTC_HCW_Cases": 8,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-08",
+   "LTC_Homes_with_Active_Outbreak": 4,
+   "LTC_Homes_with_Resolved_Outbreak": 519,
+   "Confirmed_Active_LTC_Resident_Cases": 19,
+   "Total_LTC_Resident_Deaths": 3785,
+   "Confirmed_Active_LTC_HCW_Cases": 9,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-09",
+   "LTC_Homes_with_Active_Outbreak": 4,
+   "LTC_Homes_with_Resolved_Outbreak": 519,
+   "Confirmed_Active_LTC_Resident_Cases": 18,
+   "Total_LTC_Resident_Deaths": 3786,
+   "Confirmed_Active_LTC_HCW_Cases": 10,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-11",
+   "LTC_Homes_with_Active_Outbreak": 4,
+   "LTC_Homes_with_Resolved_Outbreak": 519,
+   "Confirmed_Active_LTC_Resident_Cases": 18,
+   "Total_LTC_Resident_Deaths": 3786,
+   "Confirmed_Active_LTC_HCW_Cases": 10,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-12",
+   "LTC_Homes_with_Active_Outbreak": 5,
+   "LTC_Homes_with_Resolved_Outbreak": 518,
+   "Confirmed_Active_LTC_Resident_Cases": 13,
+   "Total_LTC_Resident_Deaths": 3788,
+   "Confirmed_Active_LTC_HCW_Cases": 14,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-13",
+   "LTC_Homes_with_Active_Outbreak": 3,
+   "LTC_Homes_with_Resolved_Outbreak": 520,
+   "Confirmed_Active_LTC_Resident_Cases": 10,
+   "Total_LTC_Resident_Deaths": 3788,
+   "Confirmed_Active_LTC_HCW_Cases": 8,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-14",
+   "LTC_Homes_with_Active_Outbreak": 4,
+   "LTC_Homes_with_Resolved_Outbreak": 519,
+   "Confirmed_Active_LTC_Resident_Cases": 11,
+   "Total_LTC_Resident_Deaths": 3788,
+   "Confirmed_Active_LTC_HCW_Cases": 7,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-15",
+   "LTC_Homes_with_Active_Outbreak": 4,
+   "LTC_Homes_with_Resolved_Outbreak": 519,
+   "Confirmed_Active_LTC_Resident_Cases": 11,
+   "Total_LTC_Resident_Deaths": 3788,
+   "Confirmed_Active_LTC_HCW_Cases": 7,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-16",
+   "LTC_Homes_with_Active_Outbreak": 3,
+   "LTC_Homes_with_Resolved_Outbreak": 520,
+   "Confirmed_Active_LTC_Resident_Cases": 11,
+   "Total_LTC_Resident_Deaths": 3789,
+   "Confirmed_Active_LTC_HCW_Cases": 8,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-18",
+   "LTC_Homes_with_Active_Outbreak": 3,
+   "LTC_Homes_with_Resolved_Outbreak": 520,
+   "Confirmed_Active_LTC_Resident_Cases": 12,
+   "Total_LTC_Resident_Deaths": 3789,
+   "Confirmed_Active_LTC_HCW_Cases": 9,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-19",
+   "LTC_Homes_with_Active_Outbreak": 5,
+   "LTC_Homes_with_Resolved_Outbreak": 518,
+   "Confirmed_Active_LTC_Resident_Cases": 24,
+   "Total_LTC_Resident_Deaths": 3790,
+   "Confirmed_Active_LTC_HCW_Cases": 12,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-20",
+   "LTC_Homes_with_Active_Outbreak": 5,
+   "LTC_Homes_with_Resolved_Outbreak": 518,
+   "Confirmed_Active_LTC_Resident_Cases": 24,
+   "Total_LTC_Resident_Deaths": 3790,
+   "Confirmed_Active_LTC_HCW_Cases": 12,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-21",
+   "LTC_Homes_with_Active_Outbreak": 5,
+   "LTC_Homes_with_Resolved_Outbreak": 518,
+   "Confirmed_Active_LTC_Resident_Cases": 28,
+   "Total_LTC_Resident_Deaths": 3790,
+   "Confirmed_Active_LTC_HCW_Cases": 13,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-22",
+   "LTC_Homes_with_Active_Outbreak": 5,
+   "LTC_Homes_with_Resolved_Outbreak": 518,
+   "Confirmed_Active_LTC_Resident_Cases": 28,
+   "Total_LTC_Resident_Deaths": 3790,
+   "Confirmed_Active_LTC_HCW_Cases": 13,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-23",
+   "LTC_Homes_with_Active_Outbreak": 5,
+   "LTC_Homes_with_Resolved_Outbreak": 518,
+   "Confirmed_Active_LTC_Resident_Cases": 27,
+   "Total_LTC_Resident_Deaths": 3790,
+   "Confirmed_Active_LTC_HCW_Cases": 8,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-25",
+   "LTC_Homes_with_Active_Outbreak": 5,
+   "LTC_Homes_with_Resolved_Outbreak": 518,
+   "Confirmed_Active_LTC_Resident_Cases": 27,
+   "Total_LTC_Resident_Deaths": 3790,
+   "Confirmed_Active_LTC_HCW_Cases": 8,
+   "Total_LTC_HCW_Deaths": 13
+ },
+ {
+   "Report_Data_Extracted": "2021-07-26",
+   "LTC_Homes_with_Active_Outbreak": 5,
+   "LTC_Homes_with_Resolved_Outbreak": 518,
+   "Confirmed_Active_LTC_Resident_Cases": 24,
+   "Total_LTC_Resident_Deaths": 3791,
+   "Confirmed_Active_LTC_HCW_Cases": 8,
+   "Total_LTC_HCW_Deaths": 13
+ }
+]
